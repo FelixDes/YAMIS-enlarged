@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="plasmavault-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="M 3.7710936,3.5 C 3.7710936,3.5 2.4,3.551228 2.4,4.9226563 V 20.128906 c 0,0 -3.348e-4,1.371094 1.3710936,1.371094 H 20.228906 c 0,0 1.371094,3.35e-4 1.371094,-1.371094 V 7.30625 C 21.6,5.9348212 20.228906,5.9 20.228906,5.9 H 13.371094 L 10.628906,3.5 Z M 12,7.1 c 1.92,0 3.6,1.1992212 3.6,3.499219 V 11.9 h 0.400781 C 16.388645,11.9 16.8,12.339206 16.8,12.814063 v 5.428124 C 16.8,18.717044 16.443982,19.1 16.000781,19.1 H 7.999218 C 7.5560184,19.1 7.2,18.717044 7.2,18.242187 V 12.814063 C 7.2,12.339206 7.5560184,11.9 7.999218,11.9 H 8.4 V 10.599219 C 8.4,8.2992212 10.079999,7.1 12,7.1 Z m 0,1.2 c -0.96,0 -2.4,0.6760056 -2.4,2.299219 V 11.9 h 4.8 V 10.599219 C 14.4,8.9597792 12.96,8.3 12,8.3 Z"
+     style="fill:currentColor;stroke-width:1.2"
+     id="path1" />
+</svg>

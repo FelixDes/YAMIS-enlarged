@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg1"
+   sodipodi:docname="tomahawk-indicator.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 12,2.4 A 9.6,9.6 0 0 0 2.4,12 9.6,9.6 0 0 0 12,21.6 9.6,9.6 0 0 0 21.6,12 9.6,9.6 0 0 0 12,2.4 Z m 0,2.4 c 3.97644,0 7.2,3.22356 7.2,7.2 -0.0031,2.04504 -0.87576,3.99216 -2.4,5.35548 v -7.7556 h -2.4 v 3 6.18048 c -0.7704,0.276 -1.5816,0.4176 -2.4,0.42 -3.97644,0 -7.2,-3.2232 -7.2,-7.2 0,-3.97644 3.22356,-7.2 7.2,-7.2 z m 2.4,7.8 -3,-2.1 -3,-2.1 v 4.2 4.2 l 3,-2.1 z"
+     id="path1" />
+</svg>

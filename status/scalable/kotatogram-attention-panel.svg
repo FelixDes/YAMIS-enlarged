@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg1"
+   sodipodi:docname="kotatogram-attention-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <circle
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     cx="22.5"
+     cy="3.7"
+     r="2.4000001"
+     id="circle1" />
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 11.7,2.5 a 9.6,9.6 0 0 0 -9.6,9.6 9.6,9.6 0 0 0 9.6,9.6 9.6,9.6 0 0 0 9.6,-9.6 9.6,9.6 0 0 0 -9.6,-9.6 z m 0,6 0.691406,1.2 c 0,0 1.708594,3.6 4.108594,3.6 2.4,0 3.6,-2.4 3.6,-2.4 0,0 0,4.8 -3.6,4.8 -2.4,0 -4.8,-1.2 -4.8,-1.2 0,0 -2.4,1.2 -4.8,1.2 -3.6,0 -3.6,-4.8 -3.6,-4.8 0,0 1.2,2.4 3.6,2.4 2.4,0 4.108594,-3.6 4.108594,-3.6 z"
+     id="path1" />
+</svg>

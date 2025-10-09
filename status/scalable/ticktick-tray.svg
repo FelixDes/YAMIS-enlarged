@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="ticktick-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12,2.4 c -5.2877148,0 -9.6,4.3122852 -9.6,9.6 0,5.287715 4.3122852,9.6 9.6,9.6 5.287715,0 9.6,-4.312285 9.6,-9.6 h -2.4 c 0,3.99066 -3.20934,7.2 -7.2,7.2 C 8.0093402,19.2 4.8,15.99066 4.8,12 4.8,8.00934 8.0093402,4.8 12,4.8 Z M 18.051563,4.3734374 11.817187,11.578126 9.1101563,9.5929692 7.6898437,11.526563 11.289844,14.167969 a 1.20012,1.20012 0 0 0 1.617187,-0.182813 l 6.960938,-8.0390623 z"
+     id="path1" />
+</svg>

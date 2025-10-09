@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="krb-no-valid-ticket.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 7.8,6.9 c -2.98236,0 -5.4,2.418 -5.4,5.4 0,2.982 2.41764,5.4 5.4,5.4 2.28564,-0.0036 4.32168,-1.44504 5.08356,-3.6 l 2.7168,-0.0024 v -3.6 L 12.88356,10.5 c -0.762,-2.15496 -2.7972,-3.59676 -5.0832,-3.6 z m 12.6,3.59532 v 3.59532 l 1.2,0.0048 v -3.6 h -1.2 z m -12.6,0.0048 c 0.994116,0 1.8,0.805884 1.8,1.8 0,0.994116 -0.805884,1.8 -1.8,1.8 -0.994116,0 -1.8,-0.805884 -1.8,-1.8 0,-0.994116 0.805884,-1.8 1.8,-1.8 z"
+     id="path1" />
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 16.8,9.3 -1.2e-5,4.8 0.3,2.4 h 1.8 l 0.3,-2.4 V 9.3 Z m 0,8.4 v 2.4 h 2.4 v -2.4 z"
+     id="path2" />
+</svg>

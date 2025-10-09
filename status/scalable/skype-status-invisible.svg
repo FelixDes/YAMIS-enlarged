@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg1"
+   sodipodi:docname="skype-status-invisible.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 7.2,2.4 A 4.8,4.8 0 0 0 2.4,7.2 4.8,4.8 0 0 0 3.73824,10.524 8.4,8.4 0 0 0 3.6,12 8.4,8.4 0 0 0 12,20.4 8.4,8.4 0 0 0 13.4856,20.2644 4.8,4.8 0 0 0 16.8,21.6 4.8,4.8 0 0 0 21.6,16.8 4.8,4.8 0 0 0 20.262,13.476 8.4,8.4 0 0 0 20.4,12 8.4,8.4 0 0 0 12,3.6 8.4,8.4 0 0 0 10.5144,3.73596 4.8,4.8 0 0 0 7.2,2.4 Z M 9.2484,7.65936 12,10.4112 14.7516,7.65936 16.4484,9.35628 13.6968,12.108 16.4484,14.8596 14.7516,16.5564 12,13.8048 9.2484,16.5564 7.5516,14.8596 10.3032,12.108 7.5516,9.35628 Z"
+     id="path1" />
+</svg>

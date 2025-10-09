@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mailspring-tray-empty.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="opacity:0.35;fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 12,2.4 A 9.6,9.6 0 0 0 2.4,12 9.6,9.6 0 0 0 12,21.6 9.6,9.6 0 0 0 21.6,12 9.6,9.6 0 0 0 12,2.4 Z M 6,7.1999999 H 18 L 12,13.2 Z M 6,8.8968745 9.9515628,12.848437 6,16.8 Z m 12,0 V 16.8 l -3.951563,-3.951563 z m -7.2,4.7999995 0.351563,0.351563 a 1.20012,1.20012 0 0 0 1.696874,0 L 13.2,13.696874 16.303126,16.8 H 7.696875 Z"
+     id="path1" />
+</svg>

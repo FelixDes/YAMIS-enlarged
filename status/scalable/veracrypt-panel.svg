@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="veracrypt-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="opacity:0.35;fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 1.2768616,2.4 6.6159242,21.6 6.9651429,20.453906 8.9034242,12.01875 H 9.0065486 L 6.437799,2.4 Z"
+     id="path1" />
+  <path
+     style="opacity:0.15;fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 13.319914,12.023806 -4.4154833,-0.0059 -1.9384615,8.43526 -0.3507692,1.146093 4.990597,-9e-6 c 2.025305,-8.781784 1.71456,-9.576184 1.71456,-9.576184 z"
+     id="path2" />
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 12.123015,2.4000006 9.0042154,12.018647 11.596862,21.6 h 10.35766 l -2.215384,-4.8 h -4.44 L 13.951908,12.018647 15.668369,7.2 h 4.070769 l 2.215384,-4.7999994 z"
+     id="path3" />
+</svg>

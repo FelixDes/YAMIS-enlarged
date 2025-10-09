@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="krudiotray-light-off24.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 2.5710937,3.6 C 1.8112537,3.6 1.2,4.2413026 1.2,5.0390626 V 18.960937 C 1.2,19.758937 1.8112537,20.4 2.5710937,20.4 H 21.428906 C 22.189706,20.4 22.8,19.758937 22.8,18.960937 V 5.0390626 C 22.8,4.2415424 22.189706,3.6 21.428906,3.6 Z M 8.4,7.2 c 2.6508,0 4.8,2.14908 4.8,4.8 0,2.6508 -2.1492,4.8 -4.8,4.8 C 5.74908,16.8 3.6,14.6508 3.6,12 3.6,9.34908 5.74908,7.2 8.4,7.2 Z m 6,0 h 7.2 v 1.2 h -7.2 z m -6,2.4 C 7.0745683,9.6 6,10.67456 6,12 c 0,1.3256 1.0745683,2.4 2.4,2.4 1.3254312,0 2.4,-1.0744 2.4,-2.4 0,-1.32544 -1.0745688,-2.4 -2.4,-2.4 z m 6,1.2 h 7.2 V 12 h -7.2 z m 0,3.6 h 7.2 v 1.2 h -7.2 z"
+     id="path1" />
+</svg>

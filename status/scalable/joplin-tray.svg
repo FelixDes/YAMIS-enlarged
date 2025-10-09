@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="joplin-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 9.085606,21.558781 C 6.9403924,21.361609 5.2775363,20.669797 4.0291994,19.455137 2.968675,18.423214 2.4026524,16.250269 2.4000124,15.003468 c -0.00205,-0.873925 0.2494863,-1.572134 0.7561597,-2.10058 0.5759999,-0.600762 1.2344715,-0.875496 2.1114349,-0.880947 1.0985615,-0.0068 2.4679714,0.376729 2.874207,1.227422 0.17141,0.358955 0.1814215,0.420341 0.2172094,1.331529 0.040595,1.033822 -0.148038,2.897001 0.1018188,3.387704 0.3586053,0.704284 0.9980702,1.246796 2.3887158,1.247849 1.390645,0.0011 1.928034,-0.711369 2.297096,-2.149691 0.09426,-0.367397 0.102444,-1.447788 0.102444,-6.215402 0,-5.099889 -0.002,-5.4072885 -0.117396,-5.6067309 C 12.92824,4.8934387 12.797006,4.8224478 11.829425,4.8 H 10.8 V 2.3998873 H 21.6 V 4.8 h -1.161299 c -0.918318,0.036364 -0.721514,0.060431 -0.924323,0.2792819 -0.27985,0.3019851 -0.204235,0.3973644 -0.243628,5.9457501 -0.03908,5.50347 -0.04169,5.55754 -0.303528,6.285482 -0.654906,1.820709 -2.407098,3.342512 -4.655644,3.926733 -1.149366,0.298632 -3.949836,0.438835 -5.2259926,0.321535 z"
+     id="path1" />
+</svg>

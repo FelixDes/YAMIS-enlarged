@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="electron-mail-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 12,2.3999998 C 8.0235504,2.3999998 4.8,5.623549 4.8,9.6 v 1.2 H 4.4578128 c -0.363432,0 -0.700398,0.09866 -0.9960936,0.260156 l 6.4171872,6.316407 c 1.0505596,1.034143 1.8963686,0.974982 2.6320306,0.733593 0.735665,-0.24139 1.246876,-0.733593 1.246876,-0.733593 l 6.536718,-6.433594 C 20.061054,10.852801 19.808917,10.8 19.542187,10.8 H 19.2 V 9.6 C 19.2,5.623549 15.976451,2.3999998 12,2.3999998 Z m 0,2.4 c 2.679396,0 4.8,2.1206052 4.8,4.8000002 V 10.333594 10.8 H 7.2 V 10.413281 9.6 C 7.2,6.920605 9.3206076,4.7999998 12,4.7999998 Z m 9.330469,7.0359372 -5.334375,5.25 4.396875,4.328907 C 21.104532,21.096896 21.6,20.396951 21.6,19.575 v -6.75 c 0,-0.361972 -0.101856,-0.695618 -0.269531,-0.989063 z M 2.5476564,12.072656 C 2.4532164,12.305527 2.4,12.558175 2.4,12.825 v 6.75 c 0,0.786055 0.4562772,1.457104 1.1179692,1.792969 l 4.2375,-4.171875 z m 12.4781246,5.967188 -0.297655,0.292969 c 0,0 -0.700984,0.701799 -1.783595,1.057031 -1.082611,0.355231 -2.659787,0.29531 -4.0335938,-1.057031 L 8.7234372,18.152344 5.2195308,21.6 H 18.642187 Z"
+     id="path1" />
+</svg>

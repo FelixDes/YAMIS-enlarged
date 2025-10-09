@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="teamviewer-indicator-error.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     style=""
+     id="g1">
+    <path
+       style="fill:currentColor;stroke-width:1.2"
+       class="ColorScheme-Text"
+       d="m 9.6,8.4 v 2.4 h 4.8 V 8.4 L 18,12 14.4,15.6 V 13.2 H 9.6 v 2.4 L 6,12 Z m 2.4,-6 c -5.3015022,-10e-8 -9.6000001,4.2984978 -9.6,9.6 -10e-8,5.301502 4.2984978,9.6 9.6,9.6 5.301502,0 9.6,-4.298498 9.6,-9.6 0,-5.3015022 -4.298498,-9.6000001 -9.6,-9.6 z"
+       id="path1" />
+  </g>
+</svg>

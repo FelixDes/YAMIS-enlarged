@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="network-mobile-80-locked.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="translate(-56 -620.36)"
+     style=""
+     id="g3">
+    <path
+       opacity="0.35"
+       style="fill:currentColor;stroke-width:1.2"
+       class="ColorScheme-Text"
+       d="m 76.3,623.871 -16.8,16.80001 h 9.6 v -4.80481 h 1.21644 c 0.02358,-1.96188 1.611,-3.59999 3.58356,-3.59999 0.929304,0 1.76496,0.37137 2.4,0.96093 z"
+       id="path1" />
+    <path
+       style="fill:currentColor;stroke-width:1.2"
+       class="ColorScheme-Text"
+       d="m 72.7,627.471 -13.2,13.20001 h 9.6 v -4.80481 h 1.21644 c 0.01852,-1.54092 1.006704,-2.8704 2.38356,-3.375 v -5.02031 z"
+       id="path2" />
+    <path
+       style="fill:currentColor;stroke-width:1.2"
+       class="ColorScheme-Text"
+       d="m 73.9,633.45901 c -1.3296,0 -2.4,1.09301 -2.4,2.43743 v 1.1625 h -1.2 v 4.80001 h 7.2 v -4.80001 h -1.2 v -1.1625 c 0,-1.34388 -1.0704,-2.43743 -2.4,-2.43743 z m 0,1.19999 c 0.6648,0 1.2,0.53088 1.2,1.20001 v 1.19999 h -2.4 v -1.19999 c 0,-0.66913 0.5352,-1.20001 1.2,-1.20001 z"
+       id="path3" />
+  </g>
+</svg>

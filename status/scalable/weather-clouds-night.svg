@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="weather-clouds-night.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="translate(-103.99995,-680.29013)"
+     style=""
+     id="g1">
+    <path
+       style="fill:currentColor;stroke-width:1.2"
+       class="ColorScheme-Text"
+       d="m 115.78865,684.02083 c -3.31533,0.12173 -6.37044,2.1655 -7.575,5.475 -0.62906,1.72834 -0.65257,3.53032 -0.18984,5.17969 0.48444,-1.58164 1.78133,-2.80039 3.40547,-3.22032 0.20406,-0.34827 0.44585,-0.67158 0.70781,-0.975 0.0126,-0.85228 0.15646,-1.71422 0.46406,-2.55937 0.617,-1.69518 1.76933,-3.01003 3.1875,-3.9 z m 0.41954,5.70469 c -1.86398,0 -3.45124,1.14112 -4.13438,2.75625 -1.73504,0.25794 -3.06562,1.73693 -3.06562,3.54375 0,1.98823 1.61176,3.6 3.6,3.6 h 7.65 c 1.7397,0 3.15,-1.4103 3.15,-3.15 0,-1.61688 -1.21571,-2.94183 -2.78438,-3.12188 -0.4091,-2.06405 -2.23144,-3.62812 -4.41562,-3.62812 z"
+       id="path1" />
+  </g>
+</svg>

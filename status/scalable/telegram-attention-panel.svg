@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg1"
+   sodipodi:docname="telegram-attention-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <circle
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     cx="5.9000001"
+     cy="19.200001"
+     r="2.4000001"
+     id="circle1" />
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 21.124963,20.764376 C 21.486387,20.056194 23.563164,7.9470644 23.860048,4.8168281 24.18123,1.7150315 22.506553,2.2918369 20.965582,2.8158279 17.184984,4.1058347 5.231932,8.7343188 1.96015,10.460058 c -0.8054832,0.337523 -1.15364518,0.910201 -0.5675628,1.405867 0.5046168,0.420137 2.351112,0.997181 3.8402616,1.290018 1.2694332,0.388629 2.255472,0.01638 3.1656684,-0.502454 2.1873748,-1.310531 8.7052568,-4.8780524 9.0562518,-5.1103753 0.350995,-0.2323229 0.735153,0.1988323 0.538713,0.4075565 -0.196441,0.2087232 -4.812507,4.3919198 -6.328068,6.2832808 -0.802921,1.039955 -0.77887,1.595173 0.04596,2.25096 1.850448,1.46632 6.794469,4.809153 7.530122,5.011205 0.938068,0.257646 1.487466,0.0442 1.88347,-0.73174 z"
+     id="path1" />
+</svg>

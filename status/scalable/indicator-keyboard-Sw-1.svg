@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="indicator-keyboard-Sw-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="translate(1,1)"
+     style=""
+     id="g2">
+    <rect
+       style="opacity:0;stroke-width:1.2"
+       width="26.4"
+       height="26.4"
+       x="-2.2"
+       y="-2.2"
+       id="rect1" />
+    <path
+       style="fill:none;stroke:currentColor;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round"
+       class="ColorScheme-Text"
+       d="m 1.40038,14.600079 c 0,1.2 0,1.2 1.1999985,1.2 0.4309113,0 0.5103585,2.62e-4 1.200012,3.9e-5 0.5454629,-1.34e-4 -1.37e-5,-3.9e-5 1.1999893,-3.9e-5 0,0 1.1999894,0 1.1999984,-1.2 l 9.2e-6,-1.20054 c 0,-5.0572606 -4.7999984,0.253396 -4.785621,-4.7888445 -0.00304,-0.5046547 -0.014514,-0.8944615 -0.014514,-1.2106151 0,-1.1999998 1.1999984,-1.1999998 1.1999984,-1.1999998 0.3022412,0 0.7580478,-5.399e-4 1.2000121,-5.391e-4 0.4172145,0 0.8895027,5.391e-4 1.1999893,5.391e-4 1.1999985,0 1.1999985,0 1.1999985,1.1999998"
+       id="path1" />
+    <path
+       style="fill:none;stroke:currentColor;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:bevel"
+       class="ColorScheme-Text"
+       d="m 20.599879,6.2057601 -5e-6,7.1999999 c 0,1.200539 -4e-6,2.400539 -1.200007,2.400539 -0.474538,0 -0.733126,0.01152 -1.199989,-5.38e-4 -0.460628,0.0018 -10e-6,5.38e-4 -1.200008,5.38e-4 -1.200003,0 -1.199994,-1.2 -1.199994,-2.400539 l 5e-6,-7.1999999 m 0,0 -5e-6,7.1999999 c 0,1.200539 -4e-6,2.400539 -1.200007,2.400539 -0.474539,0 -0.733125,0.01152 -1.19999,-5.38e-4 -0.460627,0.0018 -9e-6,5.38e-4 -1.200007,5.38e-4 -1.200003,0 -1.199994,-1.2 -1.199994,-2.400539 l 4e-6,-7.1999999"
+       id="path2" />
+  </g>
+</svg>

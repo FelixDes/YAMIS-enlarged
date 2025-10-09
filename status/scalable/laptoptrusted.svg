@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="laptoptrusted.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="translate(1,1)"
+     style=""
+     id="g1">
+    <path
+       style="opacity:0.35;fill:currentColor;stroke-width:1.2"
+       class="ColorScheme-Text"
+       d="M 2.6,2.6 C 1.9352,2.6 1.4,3.1352 1.4,3.8 v 12 c 0,0.6648 0.5352,1.2 1.2,1.2 H 0.2 v 1.2 c 0,0.6648 1.0704,1.2 2.4,1.2 h 16.8 c 1.3296,0 2.4,-0.5352 2.4,-1.2 V 17 h -2.4 c 0.6648,0 1.2,-0.5352 1.2,-1.2 V 3.8 C 20.6,3.1352 20.0648,2.6 19.4,2.6 Z M 3.8,5 H 18.2 V 15.8 H 3.8 Z m 4.8,12 h 4.8 v 1.2 H 8.6 Z"
+       id="path1" />
+  </g>
+</svg>

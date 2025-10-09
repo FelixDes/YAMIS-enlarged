@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="android-messages-desktop-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 1.2528695,3.6000006 C 0.28977121,3.5987921 -0.31331543,4.5184017 0.16771321,5.2546881 L 3.0036506,9.5859378 3.6013069,10.5 v 5.946094 c 0,2.189929 1.7332516,3.953906 3.8859375,3.953906 H 20.11537 c 2.152686,0 3.885937,-1.763977 3.885937,-3.953906 V 7.5539069 c 0,-2.1899294 -1.733251,-3.9539063 -3.885937,-3.9539063 H 12.587244 7.4872444 6.9200569 Z m 6.5484374,3.6 H 19.801307 c 0.3324,0 0.6,0.2676 0.6,0.6 0,0.3324 -0.2676,0.6 -0.6,0.6 H 7.8013069 c -0.3324,0 -0.6,-0.2676 -0.6,-0.6 0,-0.3324 0.2676,-0.6 0.6,-0.6 z m 0,3.5999994 H 19.801307 c 0.3324,0 0.6,0.2676 0.6,0.6 0,0.3324 -0.2676,0.6 -0.6,0.6 H 7.8013069 c -0.3324,0 -0.6,-0.2676 -0.6,-0.6 0,-0.3324 0.2676,-0.6 0.6,-0.6 z m 0,3.6 h 7.2000001 c 0.3324,0 0.6,0.2676 0.6,0.6 0,0.3324 -0.2676,0.6 -0.6,0.6 H 7.8013069 c -0.3324,0 -0.6,-0.2676 -0.6,-0.6 0,-0.3324 0.2676,-0.6 0.6,-0.6 z"
+     id="path1" />
+</svg>

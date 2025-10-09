@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="org.nicotine_plus.Nicotine-connect.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 1.2,2.4 V 21.6 H 4.8 V 6 c 4.8,0 3.5835937,8.400192 3.5835937,15.6 h 3.6328123 c 0,-1.363367 0.0049,-2.44528 0.0094,-3.6 H 15.6 v 3.6 h 3.6 V 18 h 3.6 v -3.6 h -3.6 v -3.6 h -3.6 v 3.6 H 12.007031 C 11.973091,10.453532 11.790416,7.7998808 10.898437,5.7726563 10.223458,4.2386095 8.7611518,3.1069193 7.2796874,2.7328126 6.4818196,2.5313306 5.6651177,2.4547385 4.8,2.4234374 V 2.4 Z"
+     id="path1" />
+</svg>

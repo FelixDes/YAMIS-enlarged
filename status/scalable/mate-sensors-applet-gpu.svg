@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="mate-sensors-applet-gpu.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="translate(3 -1029.4)"
+     style=""
+     id="g6">
+    <g
+       transform="matrix(-1,0,0,1,16.014,0)"
+       style=""
+       id="g5">
+      <path
+         style="fill:currentColor;stroke-width:1.2"
+         class="ColorScheme-Text"
+         d="m 13.885801,1032.7987 a 1.20012,1.20012 0 0 0 -1.0875,1.2 v 15.6 a 1.20012,1.20012 0 1 0 2.4,0 v -14.4 h 1.2 a 1.20012,1.20012 0 1 0 0,-2.4 h -2.4 a 1.20012,1.20012 0 0 0 -0.11244,0 z"
+         id="path1" />
+      <path
+         style="fill:currentColor;stroke-width:1.2"
+         class="ColorScheme-Text"
+         d="m 13.998601,1038.7987 v 0.6 2.4 0.6 h 0.6 2.4 0.6 v -0.6 -2.4 -0.6 h -0.6 -2.4 z m 1.2,1.2 h 1.2 v 1.2 h -1.2 z"
+         id="path2" />
+      <path
+         style="fill:currentColor;stroke-width:1.2"
+         class="ColorScheme-Text"
+         d="m 13.998601,1043.5987 v 0.6 2.4 0.6 h 0.6 2.4 0.6 v -0.6 -2.4 -0.6 h -0.6 -2.4 z m 1.2,1.2 h 1.2 v 1.2 h -1.2 z"
+         id="path3" />
+      <path
+         style="fill:currentColor;stroke-width:1.2"
+         class="ColorScheme-Text"
+         d="m -1.6013992,1036.3987 v 1.2 12 1.2 h 1.19999995 9.60000005 1.2000002 v -1.2 -1.2 h 1.2 v -2.4 h -1.2 -1.2000002 -1.2 v 1.2 1.2 H 0.79860075 v -9.6 h 2.40000005 1.2 6.0000002 0.6 0.6 v -2.4 h -0.6 -0.6 -6.0000002 -1.2 -3.60000005 z"
+         id="path4" />
+      <path
+         style="fill:currentColor;stroke-width:1.2"
+         class="ColorScheme-Text"
+         d="m 1.9986008,1040.1187 v 4.8 h 1.2 v -4.8 z m 2.4,0 v 4.8 h 1.2 v -4.8 z m 2.4,0 v 4.8 h 1.2 v -4.8 z m 2.4,0 v 4.8 h 1.2000002 v -4.8 z"
+         id="path5" />
+    </g>
+  </g>
+</svg>

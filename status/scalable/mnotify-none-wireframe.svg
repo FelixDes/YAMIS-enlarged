@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mnotify-none-wireframe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:none;stroke:currentColor;stroke-width:2.39965;stroke-linecap:round;stroke-linejoin:round"
+     class="ColorScheme-Text"
+     d="M 11.899815,8.8290096 4.6998141,10.637218 m 7.2000009,3.047808 -1.08,-5.2846084 -7.3200009,-3.6 1.2,5.8368004 v 0 m 14.4000009,1.2396 -8.4,-3.4764004 2.880786,-4.8 7.919214,3 z m -7.199999,8.51922 7.199999,-1.918936 v -6.600284 l -7.2,1.808208 m 0,6.711012 V 13.685026 L 4.6998141,10.637218 v 6.480937 z"
+     id="path1" />
+</svg>

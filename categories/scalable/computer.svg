@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg7"
+   sodipodi:docname="computer.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#9c4444"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.3531261"
+     inkscape:cx="40.545575"
+     inkscape:cy="46.748014"
+     inkscape:window-width="1183"
+     inkscape:window-height="941"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.405152;stroke-dasharray:none;stroke-opacity:0.3"
+     class="ColorScheme-Text"
+     d="m 2.9103591,2.9103585 c -0.7937343,0 -0.7937343,0.7937338 -0.7937343,0.7937338 v 7.9373457 c 0,0.793734 0.7937343,0.793734 0.7937343,0.793734 h 3.9686725 c 0,0 -0.7937346,0 -0.7937346,0.793733 v 0.793737 h 4.762407 v -0.793737 c 0,-0.793733 -0.793735,-0.793733 -0.793735,-0.793733 h 3.968671 c 0.793736,0 0.793736,-0.793734 0.793736,-0.793734 V 3.7040923 c 0,0 0,-0.7937338 -0.793736,-0.7937338 z M 3.7040936,4.4978277 H 13.228911 V 10.847701 H 3.7040936 Z"
+     id="path5" />
+  <g
+     aria-label="Terminal"
+     id="text2284"
+     style="font-size:1.76385px;opacity:1;fill:#999999;stroke-width:0.529156"
+     transform="matrix(0.72058061,0,0,0.72058061,0.33892757,0.60835196)" />
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mailspring-tray-full-newitems.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 11.7,2.2999999 A 9.6,9.6 0 0 0 2.1,11.9 a 9.6,9.6 0 0 0 9.6,9.6 9.6,9.6 0 0 0 9.6,-9.6 9.6,9.6 0 0 0 -9.6,-9.6000001 z m -6,4.8 h 12 L 11.7,13.1 Z M 5.7,8.7968745 9.6515628,12.748437 5.7,16.7 Z m 12,0 V 16.7 l -3.951563,-3.951563 z m -7.2,4.7999995 0.351563,0.351563 a 1.20012,1.20012 0 0 0 1.696874,0 L 12.9,13.596874 16.003126,16.7 H 7.396875 Z"
+     id="path1" />
+  <circle
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     cx="22.5"
+     cy="20.299999"
+     r="2.4000001"
+     id="circle1" />
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="superproductivity-tray-12.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 10.498837,8.3987542 A 0.87702704,0.94832957 0 0 0 9.601181,9.350317 v 5.299218 a 0.87702704,0.94832957 0 0 0 1.314844,0.822656 L 15.1629,12.82141 a 0.87702704,0.94832957 0 0 0 0,-1.642969 L 10.916025,8.525317 A 0.87702704,0.94832957 0 0 0 10.498837,8.3987542 Z"
+     id="path1" />
+  <path
+     style="opacity:0.35;fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12.001181,2.3987542 c -5.28772,0 -9.5999999,4.3122799 -9.5999999,9.5999998 0,5.287719 4.3122799,9.6 9.5999999,9.6 5.28772,0 9.6,-4.312281 9.6,-9.6 0,-5.2877199 -4.31228,-9.5999998 -9.6,-9.5999998 z m 0,2.4 c 3.990664,0 7.2,3.2093363 7.2,7.1999998 0,3.990663 -3.209336,7.2 -7.2,7.2 -3.9906636,0 -7.1999999,-3.209337 -7.1999999,-7.2 0,-3.9906635 3.2093363,-7.1999998 7.1999999,-7.1999998 z"
+     id="path2" />
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12.001181,2.3987542 v 2.4 a 7.2,7.2 0 0 1 7.2,7.1999998 7.2,7.2 0 0 1 -7.2,7.2 7.2,7.2 0 0 1 -7.1999999,-7.2 7.2,7.2 0 0 1 0.35625,-2.2242195 l -2.2875,-0.7429675 a 9.6,9.6 0 0 0 3.4875,10.734374 9.6,9.6 0 0 0 11.2874999,0 9.6,9.6 0 0 0 3.4875,-10.734374 9.6,9.6 0 0 0 -9.13125,-6.6328128 z"
+     id="path3" />
+</svg>

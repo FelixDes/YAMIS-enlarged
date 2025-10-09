@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="caffeine-cup-full.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 11.032031,1.3 C 9.7141908,2.961064 9.3192113,3.7794347 9.7945308,4.8367187 10.225451,5.7951227 11.338826,6.283564 10.778906,8.5 11.698586,7.420096 12.429191,6.0485274 11.707031,4.9421874 10.972391,3.8169474 10.570031,3.1336 11.032031,1.3 Z m 3.6,0 c -1.31784,1.661064 -1.71282,2.4794347 -1.2375,3.5367187 C 13.825451,5.7951227 14.938826,6.283564 14.378906,8.5 15.298586,7.420096 16.029191,6.0485276 15.307031,4.9421874 14.572391,3.8169476 14.170031,3.1336 14.632031,1.3 Z m 3.6,0 c -1.31784,1.661064 -1.71282,2.4794347 -1.2375,3.5367187 C 17.425451,5.7951227 18.538826,6.283564 17.978906,8.5 18.898586,7.420096 19.629191,6.0485276 18.907031,4.9421874 18.172391,3.8169476 17.770031,3.1336 18.232031,1.3 Z M 7.2,9.7 c -2.6509668,0 -4.8,2.149033 -4.8,4.8 0,2.650967 2.1490332,4.8 4.8,4.8 C 7.4909513,19.299 7.7812086,19.27154 8.0671874,19.21797 8.9544247,21.077309 10.749643,21.7 14.4,21.7 c 7.2,0 7.2,-2.4 7.2,-12 z m 0,2.4 h 0.00937 c 0.013936,1.915463 0.062599,3.526146 0.234375,4.783594 C 7.3628322,16.893197 7.2814748,16.898673 7.2,16.9 c -1.3254834,0 -2.4,-1.074517 -2.4,-2.4 0,-1.325483 1.0745166,-2.4 2.4,-2.4 z"
+     id="path1" />
+</svg>

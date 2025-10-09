@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="popcorntime-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="opacity:0.35;fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 3.4289064,2.4000002 C 2.8590744,2.4000002 2.4,2.8590745 2.4,3.4289065 V 12 H 21.6 V 3.4289065 c 0,-0.569808 -0.460106,-1.0289063 -1.028906,-1.0289063 z m 3.7710936,2.4 a 1.2,1.2 0 0 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,-1.2 z m 9.6,0 a 1.2,1.2 0 0 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,-1.2 z M 9.6,8.4 c 2.46444,0.380796 4.8,0 4.8,0 0,1.32552 -1.07448,2.4 -2.4,2.4 -1.32552,0 -2.4,-1.07448 -2.4,-2.4 z"
+     id="path1" />
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 2.4,12 v 8.571094 C 2.4,21.141094 2.8590864,21.6 3.4289064,21.6 H 20.571094 C 21.141094,21.6 21.6,21.141094 21.6,20.571094 V 12 Z m 4.6828128,1.2 H 7.3171872 C 7.9168368,13.2 8.4,13.628434 8.4,14.160937 v 5.278126 C 8.4,19.971568 7.9168368,20.4 7.3171872,20.4 H 7.0828128 C 6.483162,20.4 6,19.971568 6,19.439063 V 14.160937 C 6,13.628434 6.483162,13.2 7.0828128,13.2 Z m 4.8000002,0 h 0.234374 C 12.716837,13.2 13.2,13.628434 13.2,14.160937 v 5.278126 C 13.2,19.971568 12.716837,20.4 12.117187,20.4 H 11.882813 C 11.283162,20.4 10.8,19.971568 10.8,19.439063 V 14.160937 C 10.8,13.628434 11.283162,13.2 11.882813,13.2 Z m 4.8,0 h 0.234374 C 17.516837,13.2 18,13.628434 18,14.160937 v 5.278126 C 18,19.971568 17.516837,20.4 16.917187,20.4 H 16.682813 C 16.083163,20.4 15.6,19.971568 15.6,19.439063 V 14.160937 C 15.6,13.628434 16.083163,13.2 16.682813,13.2 Z"
+     id="path2" />
+</svg>

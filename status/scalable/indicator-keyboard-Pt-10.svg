@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="indicator-keyboard-Pt-10.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="translate(1,1)"
+     style=""
+     id="g2">
+    <rect
+       style="opacity:0;stroke-width:1.2"
+       width="26.4"
+       height="26.4"
+       x="-2.2"
+       y="-2.2"
+       id="rect1" />
+    <path
+       style="fill:none;stroke:currentColor;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:bevel"
+       class="ColorScheme-Text"
+       d="m 3.8083608,10.999986 2.3999787,-5e-6 c 0.5090751,-10e-7 0.8831621,5.45e-4 1.200012,5.45e-4 1.1999985,0 1.1999985,0 1.1999985,-1.2000004 0,-0.3760051 2.26e-5,-0.4612481 1.35e-5,-1.2005374 -4.4e-6,-0.499324 -1.35e-5,-0.8792962 -1.35e-5,-1.1994621 0,-1.2 0,-1.2 -1.1999985,-1.2 -0.2794734,0 -0.6901704,0.024287 -1.1057159,0.029743 C 5.0080962,6.2472721 3.8083608,6.1998817 3.8083608,6.1998817 M 3.8084787,15.8 V 6.1999996"
+       id="path1" />
+    <path
+       style="fill:none;stroke:currentColor;stroke-width:2.4;stroke-linecap:round"
+       class="ColorScheme-Text"
+       d="m 13.4,6.1999996 h 4.799999 M 15.800001,15.8 V 6.1999996"
+       id="path2" />
+  </g>
+</svg>

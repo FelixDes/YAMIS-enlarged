@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="trimage-indicator.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     stroke-linejoin="round"
+     stroke-opacity="0.347"
+     stroke-width="2.4"
+     style="fill:currentColor"
+     class="ColorScheme-Text"
+     d="m 2.9751666,21.025162 c -2.23488004,-2.2356 2.53836,-17.5440002 5.78604,-18.5568002 3.2472004,-1.01316 13.7856004,9.5244002 12.7704004,12.7704002 -1.0128,3.2472 -16.3212004,8.0208 -18.5568004,5.7864 z"
+     id="path1" />
+</svg>

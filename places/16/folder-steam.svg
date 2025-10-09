@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="folder-steam.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#9c4444"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="12.890625"
+     inkscape:cx="7.0593939"
+     inkscape:cy="7.990303"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#ffffff" />
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     id="g1"
+     transform="matrix(3.0614776,0,0,3.0614776,-18.199548,-27.507803)">
+    <path
+       id="path99"
+       style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.18249;stroke-dasharray:none;stroke-dashoffset:2.2;stroke-opacity:0.3"
+       d="m 20.689955,12.992734 c -0.258283,-1.08e-4 -0.534736,0.103884 -0.880738,0.306611 -0.82337,0.482425 -1.90017,0.709941 -3.378908,0.709941 -1.478595,0 -2.591318,-0.232342 -3.409779,-0.712 -0.656296,-0.384617 -1.048113,-0.389701 -1.598907,-0.01852 -1.414068,0.952944 -2.4797973,4.008238 -2.7924359,8.00073 -0.1874767,2.394127 -0.012562,3.656321 0.6070514,4.366652 0.298734,0.342466 1.0321165,0.284399 1.6935685,-0.135828 0.5607,-0.356222 1.228771,-1.142247 2.026933,-2.38499 0.721251,-1.122992 1.593651,-1.492859 3.522955,-1.49602 1.925465,-0.0031 2.682156,0.361292 3.570287,1.726497 1.490073,2.290449 2.867361,3.087857 3.675226,2.127761 0.447561,-0.531891 0.529478,-1.045779 0.508279,-3.185478 -0.03863,-3.886875 -1.05464,-7.422833 -2.518744,-8.7724 -0.389935,-0.359446 -0.692695,-0.532836 -1.024788,-0.532975 z m -8.364957,2.29033 h 0.893084 0.893085 v 0.765503 0.765501 h 0.765502 0.765502 v 0.956878 0.956874 h -0.765502 -0.765502 v 0.829297 0.829293 h -0.808714 c -0.444288,0 -0.84426,-0.03982 -0.891031,-0.08641 -0.04675,-0.04674 -0.08641,-0.418018 -0.08641,-0.827236 V 18.72782 H 11.559496 10.793995 V 17.770946 16.814068 H 11.559496 12.325 v -0.765501 z m 7.280499,0 c 0.805684,0 1.150718,0.892674 0.570011,1.473386 -0.369306,0.369267 -0.706356,0.398292 -1.070057,0.09054 -0.630846,-0.533787 -0.301568,-1.563912 0.500046,-1.563912 z m -1.549525,1.635953 c 0.20118,1.38e-4 0.40374,0.08033 0.563836,0.257211 0.249561,0.275747 0.276521,0.90713 0.05144,1.201756 -0.440459,0.576613 -1.498079,0.205733 -1.498079,-0.524737 0,-0.554389 0.440197,-0.934546 0.882794,-0.934245 z m 3.162839,0.03113 c 0.231882,0.0043 0.457024,0.08102 0.588532,0.226332 0.249573,0.275747 0.276507,0.907125 0.05144,1.201755 -0.46849,0.613305 -1.498078,0.202802 -1.498078,-0.596763 0,-0.242369 0.09708,-0.505047 0.232518,-0.627629 0.154787,-0.1401 0.393716,-0.207941 0.625574,-0.203742 z m -1.557755,1.650354 c 0.714281,0 1.061829,0.757646 0.629688,1.374614 -0.147738,0.21091 -0.327891,0.283965 -0.699654,0.283965 -0.428016,0 -0.527335,-0.05572 -0.699651,-0.388938 -0.339759,-0.657036 0.03106,-1.269663 0.769617,-1.269663 z"
+       class="ColorScheme-Text" />
+  </g>
+</svg>
