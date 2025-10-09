@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="twitch-indicator.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     fill-rule="evenodd"
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 2.40003,2.30041 v 16.8 h 4.80024 v 3.59988 l 3.59976,-3.59988 h 5.99964 l 4.8,-4.8 v -12 z m 4.80024,4.80036 h 2.39988 v 7.19988 H 7.20027 Z m 7.19964,0 h 2.39988 v 7.19988 h -2.39988 z"
+     id="path1" />
+</svg>

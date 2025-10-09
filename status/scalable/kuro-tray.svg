@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="kuro-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="opacity:0.35;fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 13.590743,16.819352 -2.907216,3.186462 c -0.361378,0.396097 -0.9931469,0.391422 -1.359585,0 L 6.0258691,16.603254 2.6737962,12.902246 c -0.359939,-0.397406 -0.3685214,-0.988336 0,-1.377797 L 5.4615504,8.5782898 c 0.3685195,-0.3894623 0.9830624,-0.3817307 1.3595847,0 l 6.7696089,6.8632632 c 0.376521,0.381732 0.361382,0.981704 0,1.377798 z"
+     id="path1" />
+  <rect
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     width="5.8283997"
+     height="17.0928"
+     x="15.796583"
+     y="-9.7782888"
+     ry="0.92879999"
+     transform="matrix(0.69970749,0.71442945,-0.69970749,0.71442945,0,0)"
+     id="rect1" />
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="drive-removable-media-usb-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 11.99903,2.4 8.9990305,7.2 H 10.79903 v 6 H 7.1990305 v -1.525781 c 0.741252,-0.427956 1.198488,-1.218259 1.2,-2.074219 0,-1.32552 -1.074516,-2.4 -2.4,-2.4 -1.325484,0 -2.4,1.074516 -2.4,2.4 6.72e-4,0.856764 0.458028,1.648163 1.2,2.076563 V 13.2 c 0,2.4 2.4,2.4 2.4,2.4 H 10.79903 v 1.525781 C 10.057778,17.553737 9.6005425,18.34404 9.5990305,19.2 c 0,1.32552 1.0745155,2.4 2.3999995,2.4 1.325484,0 2.4,-1.074516 2.4,-2.4 -6.72e-4,-0.856764 -0.458028,-1.648163 -1.2,-2.076563 V 15.6 h 3.6 c 0,0 2.4,0 2.4,-2.4 V 12 c 0,0 1.35,-0.225 1.2,-1.2 V 8.4 c 0.15,-1.35 -1.2,-1.2 -1.2,-1.2 h -2.4 c -1.275,0 -1.2,1.2 -1.2,1.2 v 2.4 c 0,1.2 1.2,1.2 1.2,1.2 v 1.2 h -3.6 v -6 h 1.8 z"
+     id="path1" />
+</svg>

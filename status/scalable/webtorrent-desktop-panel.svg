@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="webtorrent-desktop-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 11.553906,2.4005243 a 2.2828381,2.1829844 0 0 0 -1.195312,0.290625 L 3.6414066,6.4013055 A 2.2828381,2.1829844 0 0 0 2.5000002,8.2927117 v 7.4156243 a 2.2828381,2.1829844 0 0 0 1.1414064,1.891407 l 6.7171874,3.707811 a 2.2828381,2.1829844 0 0 0 2.282812,0 l 6.717188,-3.707811 A 2.2828381,2.1829844 0 0 0 20.5,15.708336 V 8.2927117 A 2.2828381,2.1829844 0 0 0 19.358594,6.4013055 L 12.641406,2.6911493 a 2.2828381,2.1829844 0 0 0 -1.0875,-0.290625 z M 11.5,4.8005242 18.1,8.4473995 V 15.551304 L 11.5,19.200523 4.9000002,15.551304 V 8.4473995 Z M 9.7234372,8.4005239 c -1.3384234,0 -2.423437,1.2354871 -2.423437,2.7585931 0,2.375191 3.7333328,4.241406 4.1999998,5.641406 0.466667,-1.4 4.2,-3.266215 4.2,-5.641406 0,-1.523106 -1.085014,-2.7585931 -2.423437,-2.7585931 -0.701931,0 -1.33386,0.4276308 -1.776563,0.9703128 C 11.057297,8.8281547 10.425366,8.4005239 9.7234372,8.4005239 Z"
+     id="path1" />
+</svg>

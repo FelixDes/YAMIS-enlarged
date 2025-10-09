@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg1"
+   sodipodi:docname="rhythmbox-notplaying.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     fill-rule="evenodd"
+     class="ColorScheme-Text"
+     d="M 6.7,21.6 C 5.7028,21.6 4.9,20.7972 4.9,19.8 V 4.2 C 4.9,3.2028 5.7028,2.4 6.7,2.4 h 9.6 c 0.9972,0 1.8,0.8028 1.8,1.8 v 15.6 c 0,0.9972 -0.8028,1.8 -1.8,1.8 z m 4.8,-2.4 c 2.3196,0 4.2,-1.8804 4.2,-4.2 0,-2.3196 -1.8804,-4.2 -4.2,-4.2 -2.32008,0 -4.2006,1.8804 -4.2,4.2 -6e-4,2.3196 1.87992,4.2 4.2,4.2 z m 0,-2.4 c -0.9936,0 -1.8,-0.8064 -1.8,-1.8 0,-0.9936 0.8064,-1.8 1.8,-1.8 0.9936,0 1.8,0.8064 1.8,1.8 0,0.9936 -0.8064,1.8 -1.8,1.8 z M 8.5,7.2 C 9.16288,7.2 9.7,6.66264 9.7,6 9.7,5.33736 9.16288,4.8 8.5,4.8 7.83712,4.8 7.29976,5.33736 7.3,6 7.29976,6.66264 7.83712,7.2 8.5,7.2 Z m 6,0 c 0.662916,0 1.20024,-0.537336 1.2,-1.2 2.42e-4,-0.662664 -0.537084,-1.2 -1.2,-1.2 -0.662916,0 -1.20024,0.537336 -1.2,1.2 -2.42e-4,0.662664 0.537084,1.2 1.2,1.2 z"
+     style="fill:currentColor;stroke-width:1.2"
+     id="path1" />
+</svg>

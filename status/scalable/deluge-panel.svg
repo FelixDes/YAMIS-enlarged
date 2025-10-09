@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="deluge-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12.01926,2.4000001 c -0.1704,6e-4 -0.348,0.15888 -0.5976,0.48048 L 6.2159396,10.4652 c -1.79076,2.6076 -1.77156,5.4252 -0.56472,7.554 1.2066,2.1276 3.58248,3.5808 6.3512404,3.5808 2.7684,0 5.1408,-1.4532 6.3468,-3.5808 1.206,-2.1288 1.224,-4.9464 -0.5652,-7.5564 l -5.208,-7.5963599 c -0.2244,-0.309 -0.3876,-0.46704 -0.5568,-0.46644 z m -0.0144,2.05548 4.3944,6.7333199 c 1.0692,1.6584 1.2756,3.228 -0.504,4.6404 -0.2124,0.1812 -0.48,0.3516 -0.7728,0.5064 -0.6684,0.2964 -1.3728,0.6084 -2.1588,0.6984 -0.3192,0.0552 -0.6564,0.0888 -1.0296,0.0732 C 11.89446,17.1024 11.85366,17.1 11.81286,17.1 h -0.0072 c -1.1916,0 -2.1756004,-0.9912 -2.1756004,-2.2992 0.0012,-1.1616 0.7992004,-2.1012 1.8444004,-2.2716 0.2004,-0.0384 0.408,-0.0768 0.6264,-0.1236 0.8796,-0.2892 1.26,-1.524 0.426,-2.1168 -0.5916,-0.4199999 -1.2816,-0.6515999 -1.9728,-0.6839999 -0.8496004,-0.0396 -1.6838404,0.2316 -2.3998804,0.7355999 z"
+     id="path1" />
+</svg>

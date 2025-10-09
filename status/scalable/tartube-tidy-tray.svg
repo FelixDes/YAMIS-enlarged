@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="tartube-tidy-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 5.1328287,2.198097 A 1.6945097,1.7237383 0 0 0 3.3984537,3.9207533 V 19.675441 a 1.6945097,1.7237383 0 0 0 2.540625,1.492969 L 19.350017,13.291067 a 1.6945097,1.7237383 0 0 0 0,-2.985939 L 5.9390787,2.4301283 A 1.6945097,1.7237383 0 0 0 5.1328287,2.198097 Z m 1.865625,5.0296874 7.7835933,4.5726566 -7.7835933,4.572656 z m 9.5882813,9.3585936 a 1.20012,1.20012 0 0 0 -0.836718,2.060157 l 1.55625,1.55625 -1.54922,1.546875 a 1.20012,1.20012 0 1 0 1.696876,1.696875 l 1.549218,-1.546875 1.546876,1.546875 a 1.20012,1.20012 0 1 0 1.696874,-1.696875 l -1.546874,-1.546875 1.553906,-1.55625 a 1.20012,1.20012 0 0 0 -0.836719,-2.060157 1.20012,1.20012 0 0 0 -0.860157,0.363282 l -1.553906,1.55625 -1.55625,-1.55625 a 1.20012,1.20012 0 0 0 -0.860156,-0.363282 z"
+     id="path1" />
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="persepolis-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 12,2.4000001 C 6.6816001,2.4000001 2.4,6.6816 2.4,12 c 0,5.3184 4.2816001,9.6 9.6,9.6 5.3184,0 9.6,-4.2816 9.6,-9.6 0,-5.3184 -4.2816,-9.5999999 -9.6,-9.5999999 z m -3.5999999,3.6 C 10.32,7.4399999 14.75876,7.4423987 16.8,7.7999999 15.385465,8.1139559 13.059388,8.1788927 11.076563,8.5828127 12.787373,9.8017032 13.669745,9.8618424 15.6,10.2 13.544672,10.656179 12.767167,10.610624 11.053124,11.833594 13.074346,12.2744 15.454151,12.364223 16.8,12.6 14.635415,13.08043 10.32,12.96 8.4000001,14.4 L 10.2,14.639063 12,14.4 c -1.44,1.92 -1.442399,2.75876 -1.8,4.8 C 9.7195716,17.035415 9.84,16.32 8.4000001,14.4 L 8.6390632,12.6 8.4000001,10.8 c 0.6062947,0.454721 1.4743139,0.757562 2.4281259,0.982031 L 11.039063,10.2 10.832813,8.6390627 C 9.8801112,8.8510091 9.0126308,9.1405271 8.4000001,9.5999999 l 0.2390621,-1.8 z M 13.2,14.4 15,14.639063 16.8,14.4 c -1.44,1.92 -1.442399,2.75876 -1.8,4.8 -0.480428,-2.164585 -0.36,-2.88 -1.8,-4.8 z"
+     id="path1" />
+</svg>

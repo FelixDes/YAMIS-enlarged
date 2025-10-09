@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="fcitx-cangjie-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="matrix(1,0,0,1,4,4)"
+     style=""
+     id="g1">
+    <path
+       class="ColorScheme-Text"
+       d="m 0.8,-1.6 c -1.3296,0 -2.4,1.0704 -2.4,2.4 v 14.4 c 0,1.3296 1.0704,2.4 2.4,2.4 h 14.4 c 1.3296,0 2.4,-1.0704 2.4,-2.4 V 0.8 c 0,-1.3296 -1.0704,-2.4 -2.4,-2.4 z m 6.7008,2.06724 h 0.9984 c 2.2128,3.31836 6.7764,3.93744 6.7764,3.93744 l -0.15,1.19064 c 0,0 -1.0008,-0.14856 -2.3256,-0.64224 V 10.4 H 4.33436 C 4.2836,10.8068 4.19792,11.2076 4.06952,11.6 H 12.8 v 3.6 H 3.2 v -1.6524 l -0.07968,0.15 c -0.62436,1.0932 -1.2516,1.878 -1.2516,1.878 l -0.93744,-0.75 c -1.2e-4,0 0.57288,-0.7164 1.1484,-1.7232 C 2.65532,12.0956 3.2,10.7996 3.2,9.8 V 4.95308 C 1.87568,5.44676 0.875,5.59532 0.875,5.59532 L 0.725,4.40468 c 0,0 4.56348,-0.61908 6.7758,-3.93744 z M 8,1.64372 C 6.96944,2.92724 5.6798,3.80204 4.47968,4.4 h 3.03756 l -1.05,-0.7008 0.66552,-0.9984 1.8,1.2 L 8.6,4.4 h 2.9208 C 10.3202,3.80204 9.03056,2.92724 8,1.64372 Z M 4.4,5.6 v 1.2 h 6 V 8 h -6 v 1.2 h 7.2 V 5.6 Z m 0,7.2 V 14 h 7.2 v -1.2 z"
+       style="fill:currentColor;stroke-width:1.2"
+       id="path1" />
+  </g>
+</svg>

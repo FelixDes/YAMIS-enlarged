@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="enpass-status.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 4.7226469,2.4 C 2.8456237,2.4 1.0187797,3.9836858 1.3359277,5.8898436 L 3.3679597,18.110156 C 3.6851101,20.016314 4.8799993,21.6 6.7570225,21.6 h 9.4874995 c 1.877022,0 3.071915,-1.583686 3.389063,-3.489844 L 21.665616,5.8898436 C 21.982765,3.9836858 20.155921,2.4 18.278898,2.4 Z m 6.7781251,4.8 c 1.656854,0 3,1.3431456 3,3 -7.37e-4,0.943447 -0.445242,1.831589 -1.2,2.397656 V 15.6 c 0,0.6648 -0.5352,1.2 -1.2,1.2 h -1.2 c -0.664799,0 -1.1999988,-0.5352 -1.1999988,-1.2 V 12.595313 C 8.9466733,12.02974 8.5022461,11.142622 8.5007725,10.2 c 0,-1.6568544 1.3431463,-3 2.9999995,-3 z"
+     id="path1" />
+</svg>

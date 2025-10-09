@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="pomodoneapp-started.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12,2.4 c -5.3019337,-10e-8 -9.6000001,4.2980663 -9.6,9.6 0,5.301934 4.2980664,9.6 9.6,9.6 5.301934,0 9.6,-4.298066 9.6,-9.6 C 21.6,6.6980663 17.301934,2.4 12,2.4 Z M 9,7.2 h 6 c 0.9972,0 1.8,0.8028 1.8,1.8 v 6 c 0,0.9972 -0.8028,1.8 -1.8,1.8 H 9 C 8.0028,16.8 7.2,15.9972 7.2,15 V 9 C 7.2,8.0028 8.0028,7.2 9,7.2 Z m 2.4,1.2 c -0.3324,0 -0.6,0.2676 -0.6,0.6 v 2.4 1.2 c 0,0.3324 0.2676,0.6 0.6,0.6 H 15 c 0.3324,0 0.6,-0.2676 0.6,-0.6 v -1.2 c 0,-0.3324 -0.2676,-0.6 -0.6,-0.6 H 13.2 V 9 c 0,-0.3324 -0.2676,-0.6 -0.6,-0.6 z"
+     id="path1" />
+</svg>

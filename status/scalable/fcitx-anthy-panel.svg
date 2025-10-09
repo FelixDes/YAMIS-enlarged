@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="fcitx-anthy-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="matrix(1,0,0,1,4,4)"
+     style=""
+     id="g1">
+    <path
+       class="ColorScheme-Text"
+       d="m 0.8,-1.6 c -1.3296,0 -2.4,1.0704 -2.4,2.4 v 14.4 c 0,1.3296 1.0704,2.4 2.4,2.4 h 14.4 c 1.3296,0 2.4,-1.0704 2.4,-2.4 V 0.8 c 0,-1.3296 -1.0704,-2.4 -2.4,-2.4 z M 6.0008,0.8 H 7.53356 C 7.44476,1.46672 7.28936,2.14976 7.06724,3.17192 10.07564,3.05 12.3308,2.88788 14,2.69144 V 4.2266 C 12.5984,4.3862 10.28552,4.30604 6.73436,4.46564 6.3788,5.88776 5.91056,8.32592 5.33276,9.61484 L 5.46644,9.68048 C 7.1108,8.5694 8.2694,8.01404 9.425,8.01404 c 1.467,0 2.601,0.35532 3.4002,1.06644 C 13.6256,9.7916 14,10.7024 14,11.8136 c 0,1.2888 -0.4848,1.7868 -1.5072,2.454 C 11.5148,14.8892 10.04696,15.2 8.09144,15.2 6.8648,15.2 5.74292,15.2072 4.4,15.134 v -1.7364 c 1.13316,0.2292 2.2062,0.27 3.55776,0.27 1.42224,0 2.49024,-0.1788 3.20184,-0.5352 0.7548,-0.3996 1.1316,-0.5196 1.1316,-1.3188 0,-0.7116 -0.2448,-1.2672 -0.7332,-1.66668 -0.4896,-0.44448 -1.19964,-0.66564 -2.133,-0.66564 -1.8222,0 -3.29136,0.77604 -4.89144,2.33232 l -1.2,-0.9336 C 4.04468,9.72536 4.66592,6.76964 5.1992,4.41404 H 2 V 3.1766 C 3.15092,3.17108 4.31852,3.15836 5.53436,3.12032 Z"
+       style="fill:currentColor;stroke-width:1.2"
+       id="path1" />
+  </g>
+</svg>

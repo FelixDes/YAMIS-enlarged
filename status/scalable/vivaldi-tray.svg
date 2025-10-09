@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="vivaldi-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 19.300528,2.4002543 c -1.325483,0 -2.4,1.0745166 -2.4,2.4 0.0011,0.3206541 0.06646,0.6378358 0.192187,0.9328125 0.01925,0.069283 0.03382,0.1499508 0.05624,0.2085937 0.502077,1.9351287 -0.0096,3.4484465 -1.152031,4.8257805 -1.599919,1.611638 -3.898771,1.640074 -5.487811,0.06563 L 5.6575604,3.161973 C 5.165696,2.6312731 4.4814936,2.4409165 3.8552165,2.4377543 2.5088228,2.4154715 1.5758874,3.4901841 1.3544352,4.643223 1.1908619,5.5659558 1.1160899,5.4060365 5.4653728,13.308067 c 2.7452604,4.987721 4.0493112,7.288072 4.263282,7.514062 0.7578682,0.800646 1.8396372,0.998287 2.8500002,0.522656 0.265652,-0.125069 0.564931,-0.35013 0.757029,-0.567187 0.376277,-0.425159 8.037028,-14.5084603 8.163281,-14.9929687 0.150447,-0.3223173 0.182412,-0.6628946 0.201563,-0.984375 0,-1.3254834 -1.074517,-2.4 -2.4,-2.4 z"
+     id="path1" />
+</svg>

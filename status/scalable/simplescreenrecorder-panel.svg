@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg1"
+   sodipodi:docname="simplescreenrecorder-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 2.5179867,4.8 C 1.7323467,4.8 1.100018,5.4413026 1.100018,6.2390626 V 17.760937 c 0,0.798 0.6323287,1.439063 1.4179687,1.439063 H 16.481833 c 0.786,0 1.417969,-0.641063 1.417969,-1.439063 V 14.4 l 6,2.4 V 7.2 l -6,2.4 V 6.2390626 C 17.899802,5.4413026 17.267833,4.8 16.481833,4.8 Z"
+     id="path1" />
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg1"
+   sodipodi:docname="livewallpaper-indicator.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 3.3609376,3.5 C 2.8290974,3.5 2.4,3.93485 2.4,4.475 v 13.65 c 0,0.54015 0.4290974,0.975 0.9609376,0.975 H 6 v 1.425 C 6,21.06515 6.4467812,21.5 7.0007813,21.5 H 16.999219 C 17.553218,21.5 18,21.06515 18,20.525 V 19.1 h 2.639063 C 21.170903,19.1 21.6,18.66515 21.6,18.125 V 4.475 C 21.6,3.93485 21.170903,3.5 20.639063,3.5 Z M 3.6,4.7 H 20.4 V 17.9 H 3.6 Z m 7.2,1.2 A 1.2,1.2 0 0 0 9.6,7.1 1.2,1.2 0 0 0 10.8,8.3 1.2,1.2 0 0 0 12,7.1 1.2,1.2 0 0 0 10.8,5.9 Z m 6,0 a 2.4,2.4 0 0 0 -2.4,2.4 2.4,2.4 0 0 0 2.4,2.4 2.4,2.4 0 0 0 2.4,-2.4 2.4,2.4 0 0 0 -2.4,-2.4 z M 6.6,9.5 A 1.8,1.8 0 0 0 4.8,11.3 1.8,1.8 0 0 0 6.6,13.1 1.8,1.8 0 0 0 8.4,11.3 1.8,1.8 0 0 0 6.6,9.5 Z m 10.757813,2.880469 a 0.6,0.6 0 0 0 -0.557813,0.6 0.6,0.6 0 0 0 0.6,0.6 0.6,0.6 0 0 0 0.6,-0.6 0.6,0.6 0 0 0 -0.6,-0.6 0.6,0.6 0 0 0 -0.04219,0 z M 13.2,13.1 a 1.2,1.2 0 0 0 -1.2,1.2 1.2,1.2 0 0 0 1.2,1.2 1.2,1.2 0 0 0 1.2,-1.2 1.2,1.2 0 0 0 -1.2,-1.2 z"
+     id="path1" />
+</svg>

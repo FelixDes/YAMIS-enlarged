@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="superproductivity-tray-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 10.497656,8.4 A 0.87702704,0.94832957 0 0 0 9.6,9.3515628 v 5.2992182 a 0.87702704,0.94832957 0 0 0 1.314844,0.822656 l 4.246875,-2.650781 a 0.87702704,0.94832957 0 0 0 0,-1.642969 L 10.914844,8.5265628 A 0.87702704,0.94832957 0 0 0 10.497656,8.4 Z"
+     id="path1" />
+  <path
+     style="opacity:0.35;fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12,2.4 c -5.2877201,0 -9.6,4.3122799 -9.6,9.6 0,5.28772 4.3122799,9.6 9.6,9.6 5.28772,0 9.6,-4.31228 9.6,-9.6 0,-5.2877201 -4.31228,-9.6 -9.6,-9.6 z m 0,2.4 c 3.990664,0 7.2,3.2093363 7.2,7.2 0,3.990664 -3.209336,7.2 -7.2,7.2 C 8.0093363,19.2 4.8,15.990664 4.8,12 4.8,8.0093363 8.0093363,4.8 12,4.8 Z"
+     id="path2" />
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12,2.4 v 2.4 a 7.2,7.2 0 0 1 5.34375,2.3882813 l 1.790624,-1.6125 A 9.6,9.6 0 0 0 12,2.4 Z"
+     id="path3" />
+</svg>

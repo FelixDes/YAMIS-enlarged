@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gitify-tray-active.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <circle
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     cx="21.4"
+     cy="4.8000002"
+     r="2.4000001"
+     id="circle1" />
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12.039975,2.4002114 c -0.08732,-0.00101 -0.174646,0.00276 -0.261563,0.01128 -4.894216,0.012132 -9.0677623,3.7638324 -9.535313,8.6796096 -0.4810598,5.057807 3.1179956,9.656613 8.143126,10.404654 4.914607,0.731591 9.58701,-2.461337 10.738123,-7.259257 L 17.745977,10.174593 C 17.26653,9.5908622 17.069182,9.6004059 16.358404,9.6004059 h -3.358417 c -3.2455754,-0.0459 -3.245549,4.8460301 2.6e-5,4.8001281 h 2.958709 c -0.954294,1.673837 -2.845249,2.648318 -4.865623,2.347564 C 8.5448882,16.368771 6.7775943,14.110553 7.0215365,11.54577 7.2654788,8.9809886 9.4265704,7.096205 12.000599,7.204091 c 0.10434,0.00552 0.208943,0.00432 0.313125,-0.00372 h 3.085986 c 1.338758,0.018936 2.43418,-1.0611384 2.43418,-2.4000648 0,-1.3389276 -1.095422,-2.4189996 -2.43418,-2.4000648 z"
+     id="path1" />
+</svg>

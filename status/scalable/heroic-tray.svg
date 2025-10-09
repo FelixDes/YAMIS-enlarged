@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="heroic-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 12.5,2.4 4.7,4.93125 8.684375,18.644531 12.5,21.6 16.315626,18.644531 20.3,4.93125 Z M 12.492969,3 14.3,5.2453126 13.390626,15.703126 12.5,16.8 11.602344,15.696094 10.7,5.2429687 Z M 9.5726564,16.2 11.50625,16.5375 11.9,17.1 11.50625,17.660156 9.5773436,18 9.2,17.097656 Z m 5.8570306,0 L 15.8,17.097656 15.422656,18 13.49375,17.660156 13.1,17.1 13.49375,16.5375 Z M 12.502344,17.7 13.0625,18.09375 13.4,20.027344 12.504687,20.4 11.6,20.022656 11.942187,18.09375 Z"
+     id="path1" />
+</svg>

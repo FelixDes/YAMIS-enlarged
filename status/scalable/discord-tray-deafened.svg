@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="discord-tray-deafened.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 4.4421407,2.7449217 2.7452656,4.4417968 5.3562032,7.0527343 C 4.306372,8.4531763 3.6780782,10.187822 3.6780782,12.077734 v 5.59922 c 0,0 7.816e-4,2.80078 2.8007812,2.80078 h 3.199219 v -7.2 H 6.0780782 v -1.2 c 0,-1.154419 0.4224402,-2.2614512 1.0875,-3.215624 l 7.3124998,7.312499 v 4.303125 h 3.19922 c 1.426234,-0.161119 1.992818,-0.899415 2.636718,-1.860939 l -4.0875,-4.087498 -1.251563,-1.251563 z m 7.6359373,0.9328126 c -1.259106,0 -2.4438706,0.2912556 -3.5132811,0.7875 l 1.8937491,1.89375 c 0.522867,-0.1744874 1.064889,-0.28125 1.619532,-0.28125 3.108,0 6,2.8920001 6,5.9999997 v 1.2 h -0.703125 l 3.103125,3.103126 v -4.303126 c 0,-4.6479993 -3.751999,-8.3999997 -8.4,-8.3999997 z"
+     id="path1" />
+</svg>

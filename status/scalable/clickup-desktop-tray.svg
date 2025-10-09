@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="clickup-desktop-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 4.0002069,17.150918 2.9524152,-2.261743 c 1.5685885,2.047223 3.2351329,2.990855 5.0901579,2.990855 1.845106,0 3.464533,-0.932471 4.96244,-2.963575 l 2.994573,2.207181 C 17.838491,20.052493 15.152675,21.6 12.04278,21.6 8.9428054,21.6 6.2309493,20.062416 4.0002069,17.150918 Z M 12.032862,7.3202794 6.7777821,11.848722 4.3486449,9.0314652 12.044021,2.4 19.678636,9.0364248 17.238337,11.843761 Z"
+     id="path1" />
+</svg>

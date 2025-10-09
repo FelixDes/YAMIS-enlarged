@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="wechat-tray-unread.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 10.7,2.3 a 8.4,7.8 0 0 0 -8.4,7.8 8.4,7.8 0 0 0 2.4,5.45625 V 19.1 l 1.584375,-2.376563 a 8.4,7.8 0 0 0 2.7140624,1.000782 C 8.5557253,16.871673 8.3,15.917698 8.3,14.9 8.3,11.97214 10.367649,9.5544596 13.158594,8.6679687 A 1.2,1.2 0 0 1 13.1,8.3 1.2,1.2 0 0 1 14.3,7.1 1.2,1.2 0 0 1 15.5,8.3 c 1.27366,0 2.479918,0.3143429 3.532031,0.8601563 A 8.4,7.8 0 0 0 10.7,2.3 Z M 7.1,7.1 A 1.2,1.2 0 0 1 8.3,8.3 1.2,1.2 0 0 1 7.1,9.5 1.2,1.2 0 0 1 5.9,8.3 1.2,1.2 0 0 1 7.1,7.1 Z m 8.4,2.4 a 6,5.4 0 0 0 -6,5.4 6,5.4 0 0 0 6,5.4 6,5.4 0 0 0 1.211719,-0.11484 C 16.774616,18.26447 18.36525,16.7 20.3,16.7 c 0.277601,0 0.545969,0.03768 0.80625,0.09844 A 6,5.4 0 0 0 21.5,14.9 6,5.4 0 0 0 15.5,9.5 Z m -2.4,2.4 a 1.2,1.2 0 0 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,-1.2 z m 4.8,0 a 1.2,1.2 0 0 1 1.2,1.2 1.2,1.2 0 0 1 -1.2,1.2 1.2,1.2 0 0 1 -1.2,-1.2 1.2,1.2 0 0 1 1.2,-1.2 z m 2.4,7.2 c -0.511103,0 -0.934166,0.298501 -1.110937,0.735937 L 20.3,21.5 Z"
+     id="path1" />
+  <circle
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     cx="20.299999"
+     cy="20.299999"
+     r="2.4000001"
+     id="circle1" />
+</svg>

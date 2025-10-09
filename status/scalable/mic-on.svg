@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mic-on.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 12,2.4 C 10.00548,2.4 8.4,4.00572 8.4,6 v 6.0024 c 0,1.9944 1.60548,3.5976 3.6,3.5976 1.9944,0 3.6,-1.6032 3.6,-3.5976 V 6 C 15.6,4.00572 13.9944,2.4 12,2.4 Z m -7.2,8.4 v 1.1976 c 0,3.5604 2.4,7.2024 6,7.2024 v 2.4 h 2.4 v -2.4 c 3.6,0 6,-3.6432 6,-7.2024 V 10.8 h -2.4 v 1.1976 C 16.8,14.6784 14.6796,16.8 12,16.8 9.31992,16.8 7.2,14.6784 7.2,11.9976 V 10.8 Z"
+     id="path1" />
+</svg>

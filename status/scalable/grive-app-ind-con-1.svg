@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="grive-app-ind-con-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="translate(.011128 -40.004)"
+     style=""
+     id="g4">
+    <g
+       transform="translate(1,-1)"
+       style=""
+       id="g3">
+      <path
+         opacity="0.35"
+         style="fill:currentColor;stroke-width:1.2"
+         class="ColorScheme-Text"
+         d="m 14.58901,43.404 7.2,12 h -7.8 l -6.6,-12 z"
+         id="path1" />
+      <path
+         style="fill:currentColor;stroke-width:1.2"
+         class="ColorScheme-Text"
+         d="m 8.58889,56.616 13.2,-0.01266 -3.6,6 -13.2,-4e-6 z"
+         id="path2" />
+      <path
+         style="fill:currentColor;stroke-width:1.2"
+         class="ColorScheme-Text"
+         d="m 0.18889,56.604 6.6,-12 3.6,6.6 -6.6,11.4 z"
+         id="path3" />
+    </g>
+  </g>
+</svg>

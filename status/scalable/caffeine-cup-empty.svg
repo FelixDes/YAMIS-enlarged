@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="caffeine-cup-empty.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 7.2,9 c -2.6509668,0 -4.8,2.149033 -4.8,4.8 0,2.650967 2.1490332,4.8 4.8,4.8 C 7.4909513,18.599 7.7812086,18.57154 8.0671874,18.51797 8.9544247,20.377309 10.749643,21 14.4,21 c 7.2,0 7.2,-2.4 7.2,-12 z m 0,2.4 h 0.00937 c 0.013936,1.915463 0.062599,3.526146 0.234375,4.783594 C 7.3628322,16.193197 7.2814748,16.198673 7.2,16.2 c -1.3254834,0 -2.4,-1.074517 -2.4,-2.4 0,-1.325483 1.0745166,-2.4 2.4,-2.4 z"
+     id="path1" />
+</svg>

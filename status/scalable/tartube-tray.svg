@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="tartube-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 5.3348231,2.3999479 A 1.6945097,1.7237383 0 0 0 3.6004481,4.1226042 V 19.877292 a 1.6945097,1.7237383 0 0 0 2.540625,1.492969 L 19.55201,13.492918 a 1.6945097,1.7237383 0 0 0 0,-2.985939 L 6.1410731,2.6319792 a 1.6945097,1.7237383 0 0 0 -0.80625,-0.2320313 z m 1.865625,5.0296874 7.7835929,4.5726567 -7.7835929,4.572656 z"
+     id="path1" />
+</svg>

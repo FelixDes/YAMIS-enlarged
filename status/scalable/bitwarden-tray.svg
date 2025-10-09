@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="bitwarden-tray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12,2.3999436 c -7.6082761,2.49e-4 -7.8033353,0.0041 -8.0015624,0.1195308 -0.4208027,0.2451332 -0.3984375,-0.057444 -0.3984375,5.6578124 0,5.7997132 -0.0068,5.6838592 0.4523437,6.8085942 0.5282404,1.293828 1.3782849,2.38593 2.775,3.574219 1.1719306,0.99705 2.5611557,1.900756 4.1109372,2.667187 0.52431,0.259294 0.795464,0.376942 1.061719,0.372657 0.266255,0.0042 0.537407,-0.113352 1.061719,-0.372657 1.549781,-0.766431 2.939005,-1.670137 4.110937,-2.667187 1.396715,-1.188289 2.24676,-2.280391 2.775,-3.574219 C 20.406872,13.861145 20.4,13.977 20.4,8.1772873 20.4,2.4620261 20.42236,2.7646081 20.001563,2.5194749 19.803336,2.4040277 19.608277,2.400192 12,2.3999436 Z m 0,2.4 c 3.370111,1.1e-4 4.898016,0.00361 5.974219,0.014063 C 17.986871,5.5520604 18,6.1349777 18,8.1772873 c 0,2.9009677 -0.0059,4.3455417 -0.04922,4.9992187 -0.0433,0.653678 0.01375,0.317583 -0.225,0.902344 -0.366449,0.897552 -0.89773,1.624283 -2.107031,2.653124 -1.00137,0.851949 -2.22932,1.653987 -3.618745,2.341407 z"
+     id="path1" />
+</svg>

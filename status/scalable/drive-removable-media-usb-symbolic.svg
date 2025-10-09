@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="drive-removable-media-usb-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     d="M 6,2.4 C 4.0024674,2.4 2.4,4.0062778 2.4,6 v 12 c 0,1.989068 1.6062778,3.6 3.6,3.6 h 12 c 1.993722,0 3.6,-1.610932 3.6,-3.6 V 6 C 21.6,4.0062778 19.989068,2.4 18,2.4 Z m 1.2,12 h 9.6 v 2.4 H 7.2 Z m 4.8,-7.2 4.8,6 H 7.2 Z"
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     id="path1" />
+</svg>

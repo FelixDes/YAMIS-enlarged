@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg2"
+   sodipodi:docname="workrave-indicator-quiet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 13.51209,2.2 a 4.8,4.8 0 0 0 -4.8,4.8 4.8,4.8 0 0 0 4.8,4.8 4.8,4.8 0 0 0 4.8,-4.8 4.8,4.8 0 0 0 -4.8,-4.8 z m -1.2,2.4 h 2.4 v 1.2 h 1.2 v 2.4 h -1.2 v 1.2 h -2.4 V 8.2 h -1.2 V 5.8 h 1.2 z m 1.2,9.6 c -9.60048,0.0048 -9.6,6.174 -9.6,6.174 V 21.4 h 12.2088 l 1.842,-1.842 -2.5476,-2.5452 2.304,-2.304 c -1.146,-0.3132 -2.5212,-0.51 -4.2072,-0.5088 z m 5.2968,1.116 -1.6968,1.6968 2.5476,2.5452 -2.5476,2.5476 1.6968,1.6944 2.5452,-2.5452 2.5476,2.5452 1.69452,-1.69452 -2.54532,-2.5476 2.54532,-2.54532 -1.69452,-1.69692 -2.5476,2.5476 -2.54532,-2.5476 z"
+     id="path1" />
+  <g
+     transform="translate(-39.549 -8.213)"
+     style=""
+     id="g2">
+    <path
+       style="fill:currentColor;stroke-width:1.2"
+       class="ColorScheme-Text"
+       d="m 27.88029,21.243 1.6968,1.6968 -2.1516,2.1516 h 6.2064 v 2.4 h -6.2064 l 2.1516,2.1516 -1.6968,1.6968 -5.0484,-5.0484 z"
+       id="path2" />
+  </g>
+</svg>

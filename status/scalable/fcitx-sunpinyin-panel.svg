@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="fcitx-sunpinyin-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="matrix(1,0,0,1,4,4)"
+     style=""
+     id="g1">
+    <path
+       class="ColorScheme-Text"
+       d="M 8,-1.6 A 9.6,9.6 0 0 0 -1.6,8 9.6,9.6 0 0 0 0.8,14.3324 V 14 H 3.2 V 9.2726 L 1.06724,10.33904 0.53276,9.26096 3.2,7.9274 V 4.4 H 0.8 V 3.2 H 3.2 V 0.8 H 4.4 V 3.2 H 5.6 V 4.4 H 4.4 V 7.3274 L 5.33276,6.86096 5.86724,7.93904 5.74064,8 H 8 V 4.4 H 6.8 V 3.2 H 8.45 L 6.91952,1.16096 7.88048,0.43904 l 1.8,2.4 L 9.2024,3.2 h 2.3952 L 11.12,2.83904 l 1.8,-2.4 0.96,0.72192 L 12.35,3.2 H 15.2 V 4.4 H 12.8 V 8 h 2.4 v 1.2 h -2.4 v 6 h -1.2 v -6 H 9.1508 C 9.0356,10.544 8.57864,11.6372 8.03984,12.5732 7.29464,13.8572 6.01016,15.038 6.01016,15.038 L 5.18984,14.1644 c 0,0 1.215,-1.1592 1.81176,-2.1912 C 7.4828,11.1332 7.84628,10.28 7.95308,9.2 H 5.6 V 8.0726 l -1.2,0.6 V 15.2 H 1.66256 A 9.6,9.6 0 0 0 8,17.6 9.6,9.6 0 0 0 17.6,8 9.6,9.6 0 0 0 8,-1.6 Z m 1.2,6 V 8 h 2.4 V 4.4 Z"
+       style="fill:currentColor;stroke-width:1.2"
+       id="path1" />
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="org.keepassxc.KeePassXC-monochrome-light.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12,2.3 a 6,6 0 0 0 -6,6 6,6 0 0 0 3.6,5.491406 V 20.3 l 2.4,2.4 2.4,-2.4 v -0.839063 l 1.2,-0.9 -1.2,-0.9 v -0.9 l 1.2,-1.2 -1.2,-1.2 V 13.796094 A 6,6 0 0 0 18,8.3 6,6 0 0 0 12,2.3 Z m 0,1.2 A 2.4000002,2.4000002 0 0 1 14.4,5.9 2.4000002,2.4000002 0 0 1 12,8.3 2.4000002,2.4000002 0 0 1 9.6,5.9 2.4000002,2.4000002 0 0 1 12,3.5 Z M 10.8,14.3 H 12 v 4.8 h -1.2 z"
+     id="path1" />
+</svg>

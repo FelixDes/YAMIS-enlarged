@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="preferences-system-bluetooth-inactive-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <style
+     type="text/css"
+     id="current-color-scheme">.ColorScheme-Background { color: #2a2e32; } .ColorScheme-NegativeText { color: #da4453; } .ColorScheme-NeutralText { color: #f67400; } .ColorScheme-PositiveText { color: #27ae60; } .ColorScheme-Text { color: #fcfcfc; } </style>
+  <g
+     id="preferences-system-bluetooth-inactive"
+     transform="translate(44,94) translate(-7,-116)"
+     style="">
+    <rect
+       id="rect4426"
+       x="-40.200001"
+       y="18.799999"
+       width="38.400002"
+       height="38.400002"
+       fill="none"
+       style="stroke-width:1.2" />
+    <path
+       id="path4428"
+       class="ColorScheme-Text"
+       d="M -21,23.6 V 36.797656 L -28.197656,29.6 -29.04375,30.446094 -21.492187,38 -29.04375,45.553906 -28.197656,46.4 -21,39.202344 V 52.4 h 1.2024 L -12.6,45.202344 v -0.0048 L -19.797656,38 -12.6,30.802344 V 30.7976 L -19.797656,23.6 Z m 1.2,1.692187 L -14.294531,30.8 -19.8,36.307813 Z m 0,14.4 L -14.294531,45.2 -19.8,50.707813 Z"
+       fill="currentColor"
+       opacity="0.5"
+       style="stroke-width:1.2" />
+  </g>
+</svg>

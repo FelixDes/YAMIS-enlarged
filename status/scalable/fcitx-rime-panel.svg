@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="fcitx-rime-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <g
+     transform="matrix(1,0,0,1,4,4)"
+     style=""
+     id="g1">
+    <path
+       class="ColorScheme-Text"
+       d="m 0.8,-1.6 c -1.3296,0 -2.4,1.0704 -2.4,2.4 v 14.4 c 0,1.3296 1.0704,2.4 2.4,2.4 h 14.4 c 1.3296,0 2.4,-1.0704 2.4,-2.4 V 0.8 c 0,-1.3296 -1.0704,-2.4 -2.4,-2.4 z m 6,2.4 H 8 V 9.17888 C 10.1732,9.08096 11.2652,8.45096 11.9144,7.38824 12.6224,6.23 12.8,4.37504 12.8,2 H 14 C 14,4.42496 13.8776,6.47 12.9356,8.01176 12.0644,9.43844 10.46,10.26044 8,10.3766 V 14 h 6 v 1.2 H 0.8 V 14 h 6 V 10.3766 C 4.33952,10.26044 2.73596,9.43844 1.86404,8.01176 0.92192,6.47 0.8,4.42496 0.8,2 H 2 C 2,4.37504 2.17808,6.23 2.88596,7.38824 3.5354,8.45096 4.6268,9.08096 6.8,9.17888 Z"
+       style="fill:currentColor;stroke-width:1.2"
+       id="path1" />
+  </g>
+</svg>

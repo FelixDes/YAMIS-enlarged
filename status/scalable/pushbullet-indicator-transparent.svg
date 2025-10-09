@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="pushbullet-indicator-transparent.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="opacity:0.35;fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 2.3999934,4.800029 v 14.4 h 2.4 v -14.4 z m 4.8,0 v 14.4 l 5.1033596,-0.03877 c 3.51756,-0.03916 3.84948,-0.08766 5.33664,-0.812256 3.2424,-1.5798 4.77396,-5.40504 3.528,-8.81196 -0.8232,-2.25036 -2.6952,-3.91644 -5.082,-4.52232 -0.75,-0.19032 -1.2264,-0.21504 -4.14,-0.21504 z"
+     id="path1" />
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="dino-status-chat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 12,2.4 A 9.6,9.6 0 0 0 2.4,12 9.6,9.6 0 0 0 12,21.6 9.6,9.6 0 0 0 21.6,12 9.6,9.6 0 0 0 12,2.4 Z M 8.4,7.2 A 2.4,2.4 0 0 1 10.8,9.6 2.4,2.4 0 0 1 8.4,12 2.4,2.4 0 0 1 6,9.6 2.4,2.4 0 0 1 8.4,7.2 Z m 7.2,0 A 2.4,2.4 0 0 1 18,9.6 2.4,2.4 0 0 1 15.6,12 2.4,2.4 0 0 1 13.2,9.6 2.4,2.4 0 0 1 15.6,7.2 Z m -8.475,5.983594 a 1.20012,1.20012 0 0 1 0.1195308,0 1.20012,1.20012 0 0 1 1.14375,1.040625 c 0,0 0.090212,0.607201 0.5742187,1.260937 C 9.4465064,16.138892 10.202618,16.8 12,16.8 c 1.797382,0 2.553493,-0.661108 3.0375,-1.314844 0.484003,-0.653737 0.574219,-1.260937 0.574219,-1.260937 a 1.2012122,1.2012122 0 1 1 2.376562,0.351562 c 0,0 -0.173217,1.1928 -1.021875,2.339063 C 16.117748,18.061108 14.471959,19.2 12,19.2 9.5280409,19.2 7.8822521,18.061108 7.0335937,16.914844 6.1849354,15.76858 6.0117187,14.575781 6.0117187,14.575781 A 1.20012,1.20012 0 0 1 7.125,13.183594 Z"
+     id="path1" />
+</svg>

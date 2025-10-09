@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg1"
+   sodipodi:docname="pithos-tray-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 13.873099,2.4 c -1.536,0 -3.0726,-8.437e-4 -3.0726,1.53516 v 9.675 C 10.238347,13.341636 9.6234907,13.201536 9.0004987,13.2 c -2.3196,0 -4.2,1.8804 -4.2,4.2 0,2.3196 1.8804,4.2 4.2,4.2 2.2700403,-0.0029 4.1270403,-1.809 4.1929203,-4.07808 l 0.0071,0.0047 c 2.66e-4,-0.04195 -2.52e-4,-0.0846 0,-0.126564 0.01712,-2.85144 0,-5.73672 0,-8.5992 0,-4.23888 5.232,1.2312 6,1.9992 0,-2.04828 0.04866,-8.4 -5.3274,-8.4 z"
+     id="path1" />
+</svg>

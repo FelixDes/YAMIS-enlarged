@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="input-keyboard-virtual-off.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="opacity:0.35;fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 4.9,4.8 c 0,0 -2.4,0 -2.4,2.4 v 9.6 c 0,2.4 2.4,2.4 2.4,2.4 h 13.2 c 0,0 2.4,0 2.4,-2.4 V 7.2 C 20.5,4.8 18.1,4.8 18.1,4.8 Z M 5.2,7.2 H 7 c 0.1662,0 0.3,0.1338 0.3,0.3 V 9.3 C 7.3,9.4662 7.1662,9.6 7,9.6 H 5.2 C 5.0338,9.6 4.9,9.4662 4.9,9.3 V 7.5 C 4.9,7.3338 5.0338,7.2 5.2,7.2 Z m 3.6,0 h 1.8 c 0.1662,0 0.3,0.1338 0.3,0.3 v 1.8 c 0,0.1662 -0.1338,0.3 -0.3,0.3 H 8.8 C 8.6338,9.6 8.5,9.4662 8.5,9.3 V 7.5 C 8.5,7.3338 8.6338,7.2 8.8,7.2 Z m 3.6,0 h 1.8 c 0.1656,0 0.3,0.1338 0.3,0.3 v 1.8 c 0,0.1662 -0.1344,0.3 -0.3,0.3 H 12.4 C 12.2344,9.6 12.1,9.4662 12.1,9.3 V 7.5 c 0,-0.1662 0.1344,-0.3 0.3,-0.3 z m 3.6,0 h 1.8 c 0.1656,0 0.3,0.1338 0.3,0.3 v 1.8 c 0,0.1662 -0.1344,0.3 -0.3,0.3 H 16 C 15.8344,9.6 15.7,9.4662 15.7,9.3 V 7.5 C 15.7,7.3338 15.8344,7.2 16,7.2 Z M 5.2,10.8 H 7 c 0.1662,0 0.3,0.1344 0.3,0.3 v 1.8 c 0,0.1656 -0.1338,0.3 -0.3,0.3 H 5.2 c -0.1662,0 -0.3,-0.1344 -0.3,-0.3 v -1.8 c 0,-0.1656 0.1338,-0.3 0.3,-0.3 z m 3.6,0 h 1.8 c 0.1662,0 0.3,0.1344 0.3,0.3 v 1.8 c 0,0.1656 -0.1338,0.3 -0.3,0.3 H 8.8 c -0.1662,0 -0.3,-0.1344 -0.3,-0.3 v -1.8 c 0,-0.1656 0.1338,-0.3 0.3,-0.3 z m 3.6,0 h 1.8 c 0.1662,0 0.3,0.1338 0.3,0.3 v 1.8 c 0,0.1656 -0.1344,0.3 -0.3,0.3 h -1.8 c -0.1656,0 -0.3,-0.1344 -0.3,-0.3 v -1.8 c 0,-0.1656 0.1344,-0.3 0.3,-0.3 z m 3.6,0 h 1.8 c 0.1662,0 0.3,0.1338 0.3,0.3 v 1.8 c 0,0.1656 -0.1344,0.3 -0.3,0.3 H 16 c -0.1656,0 -0.3,-0.1344 -0.3,-0.3 v -1.8 c 0,-0.1656 0.1344,-0.3 0.3,-0.3 z m -8.4,3.6 h 7.8 c 0.1662,0 0.3,0.1338 0.3,0.3 v 1.8 c 0,0.1656 -0.1344,0.3 -0.3,0.3 H 7.6 c -0.1662,0 -0.3,-0.1344 -0.3,-0.3 v -1.8 c 0,-0.1656 0.1338,-0.3 0.3,-0.3 z"
+     id="path1" />
+</svg>

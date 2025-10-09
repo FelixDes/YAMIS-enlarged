@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1"
+   id="svg3"
+   sodipodi:docname="yd-busy5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 10.910217,4.851228 c -4.266668,0 -3.2740592,3.897804 -5.4585955,5.0718757 -0.075293,0.04272 -0.1176288,0.082068 -0.1851563,0.1242183 1.4406574,-0.8575072 3.2163694,-1.5744808 5.1023438,-2.0601568 1.59709,-0.4108536 3.217008,-0.6413496 4.710937,-0.6703116 0.03839,-1.368e-4 0.07668,-1.368e-4 0.11484,0 C 13.75389,6.9074548 13.596358,4.851228 10.910217,4.851228 Z"
+     id="path1" />
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 15.560215,8.3973216 c -1.493929,0.028968 -3.113847,0.259458 -4.710937,0.6703128 -5.2637682,1.3545136 -9.0151705,4.3000176 -8.3789066,6.5789056 0.3666257,1.302243 2.133083,2.161579 4.7648436,2.317969 -0.0012,-0.0098 -0.0036,-0.01828 -0.00468,-0.02813 -0.1420644,-1.232107 0.6396948,-2.303929 1.55625,-3.03047 0.9165555,-0.726544 2.095524,-1.254102 3.419532,-1.535157 1.324008,-0.281053 2.563697,-0.267469 3.599999,0.04453 0.974272,0.293326 1.890895,0.933366 2.116407,2.032032 2.63769,-1.478801 4.0058,-3.261797 3.609379,-4.703901 -0.41995,-1.509837 -2.71027,-2.4096054 -5.971875,-2.3460954 z"
+     id="path2" />
+  <path
+     style="opacity:0.35;fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 13.994591,14.394977 a 2.2302929,4.2923502 76.001371 0 0 -1.652344,0.171094 2.2302929,4.2923502 76.001371 0 0 -3.9351564,3.119533 2.2302929,4.2923502 76.001371 0 0 4.4507814,1.338281 2.2302929,4.2923502 76.001371 0 0 3.932813,-3.119534 2.2302929,4.2923502 76.001371 0 0 -2.796094,-1.509374 z"
+     id="path3" />
+</svg>

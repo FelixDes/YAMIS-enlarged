@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="stock_weather-few-clouds.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 10.799996,2.4000046 V 4.903129 a 7.2,7.2 0 0 1 1.2,-0.103128 7.2,7.2 0 0 1 1.2,0.107808 V 2.3999962 Z M 6.0609337,4.3640674 4.3640592,6.0609418 6.1359337,7.8328173 A 7.2,7.2 0 0 1 7.8351529,6.1382854 Z m 11.8781253,0 -1.771875,1.7718744 a 7.2,7.2 0 0 1 1.694532,1.6992191 l 1.774218,-1.7742191 z m -5.939063,1.6359372 a 6,6 0 0 0 -5.9999995,5.9999994 6,6 0 0 0 2.7539063,5.046093 c 0.502074,-1.079234 1.4960422,-1.881631 2.6742192,-2.259374 0.775412,-1.584655 2.279216,-2.786719 4.171874,-2.786719 0.879593,0 1.672313,0.267482 2.350781,0.705469 a 6,6 0 0 0 0.04922,-0.705469 6,6 0 0 0 -6.000001,-5.9999994 z M 2.3999964,10.800004 v 2.4 H 4.903122 a 7.2,7.2 0 0 1 -0.103128,-1.2 7.2,7.2 0 0 1 0.107808,-1.2 z m 16.6968746,0 a 7.2,7.2 0 0 1 0.103128,1.2 7.2,7.2 0 0 1 -0.107808,1.2 h 2.507813 v -2.4 z m -3.496875,2.4 c -1.572,0 -2.880656,1.031156 -3.372656,2.435156 -1.476,0.192 -2.6273435,1.440844 -2.6273435,2.964844 0,1.656 1.3439995,3 2.9999995,3 h 6 c 1.656,0 3,-1.344 3,-3 0,-1.524 -1.151343,-2.772844 -2.627343,-2.964844 -0.48,-1.404 -1.800657,-2.435156 -3.372657,-2.435156 z m -9.4617174,2.964843 -1.7742192,1.774219 1.6968744,1.696875 1.7718756,-1.771875 A 7.2,7.2 0 0 1 6.1382786,16.164847 Z"
+     id="path1" />
+</svg>

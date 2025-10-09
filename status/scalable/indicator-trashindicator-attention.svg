@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="indicator-trashindicator-attention.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 9.7020875,3.58922 c -1.2,0 -1.2,1.2 -1.2,1.2 h -3.6 c 0,0 -1.2024,0.00421 -1.2024,1.20468 v 0.00234 1.2 L 19.299688,7.1939 v -1.2 c 0,-1.2 -1.19766,-1.20468 -1.19766,-1.20468 h -3.6 c 0,0 0,-1.2 -1.2,-1.2 H 9.7020275 Z m -4.8024,4.80708 c 0,0 -1.24656,3.96468 -1.1976,6.00468 0.036,1.656 1.2,4.8 1.2,4.8 6e-5,0.628296 0.571704,1.19994 1.2,1.2 h 9.6000005 1.2 c 0.628296,-6e-5 1.19994,-0.571704 1.2,-1.2 0,0 1.160532,-3.14784 1.2,-4.79532 0.048,-2.04 -1.2,-6 -1.2,-6 z"
+     id="path1" />
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="exaile-play.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 12,2.4 c -5.3184,0 -9.6,4.2816 -9.6,9.6 0,5.3184 4.2816,9.6 9.6,9.6 5.3184,0 9.6,-4.2816 9.6,-9.6 C 21.6,6.6816 17.3184,2.4 12,2.4 Z M 10.078126,8.4046872 C 11.023402,8.532756 15.6,11.462587 15.6,12 c 0,0.573204 -5.207156,3.86781 -5.6601564,3.58125 -0.4528199,-0.286608 -0.4528199,-6.87618 0,-7.1625 0.028308,-0.017904 0.075264,-0.022601 0.1382824,-0.014064 z"
+     id="path1" />
+</svg>

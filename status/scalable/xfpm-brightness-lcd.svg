@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="xfpm-brightness-lcd.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="m 12,1.8 -3,3 H 4.8 V 9 L 1.8,12.00036 4.8,15 v 4.2 H 9 l 3,3 3,-3 h 4.2 V 15 l 3,-3 -3,-3 V 4.8 H 15 Z M 12,6 c 3.295291,0 6,2.7018142 6,6 0,3.298186 -2.701814,6 -6,6 C 8.7018142,18 6,15.298186 6,12 6,8.7018142 8.7047083,6 12,6 Z m 1.8e-4,2.40036 C 10.011175,8.40072 8.4,10.011334 8.4001801,12.00036 8.4003602,13.989386 10.011175,15.6 12.00018,15.6 Z"
+     style="fill:currentColor;stroke-width:1.2"
+     id="path1" />
+</svg>

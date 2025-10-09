@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="pushbullet-indicator-paused.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="m 2.3999505,4.8 v 14.4 h 2.4 V 4.8 Z m 4.8,0 v 14.4 l 5.1023435,-0.03984 c 3.51756,-0.03916 3.849559,-0.08634 5.336719,-0.810937 3.2424,-1.5798 4.775647,-5.40558 3.529687,-8.8125003 C 20.3455,7.2863587 18.471907,5.621505 16.085107,5.015625 15.335107,4.825305 14.859644,4.8 11.946044,4.8 Z M 10.79995,8.4 h 2.4 v 7.2 h -2.4 z m 3.6,0 h 2.4 v 7.2 h -2.4 z"
+     id="path1" />
+</svg>

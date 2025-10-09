@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="internxt-drive-issues.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     d="M 6.2390626,2.4 C 4.1117024,2.4 2.4,4.1117024 2.4,6.2390626 V 17.760937 C 2.4,19.888297 4.1117024,21.6 6.2390626,21.6 H 16.521094 A 3.6,3.6 0 0 1 15.6,19.2 3.6,3.6 0 0 1 15.815626,18 H 14.646094 L 11.908594,13.4625 9.1710937,18 H 6.4992187 L 10.408594,11.814844 6.7476563,6 H 9.5015626 L 12.042187,10.319531 14.53125,6 h 2.688281 l -3.69375,5.948437 3.110156,4.736719 A 3.6,3.6 0 0 1 19.2,15.6 3.6,3.6 0 0 1 21.6,16.516406 V 6.2390626 C 21.6,4.1117024 19.888297,2.4 17.760937,2.4 Z"
+     id="path1" />
+  <circle
+     style="fill:currentColor;stroke-width:1.2"
+     class="ColorScheme-Text"
+     cx="19.200001"
+     cy="19.200001"
+     r="2.4000001"
+     id="circle1" />
+</svg>
