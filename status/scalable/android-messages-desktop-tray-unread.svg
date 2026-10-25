@@ -1,39 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   id="svg1"
-   sodipodi:docname="android-messages-desktop-tray-unread.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <defs
-     id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
-  </defs>
-  <path
-     style="fill:currentColor;stroke-width:1.2"
-     class="ColorScheme-Text"
-     d="M 5.0763673,3.6 A 3.6,3.6 0 0 1 5.9998047,6 3.6,3.6 0 0 1 2.9810547,9.5507813 L 3.0044921,9.5859374 3.6021484,10.5 v 5.946094 c 0,2.189929 1.7332517,3.953906 3.8859376,3.953906 h 12.628125 c 2.152686,0 3.885937,-1.763977 3.885937,-3.953906 V 7.5539063 C 24.002148,5.3639768 22.268897,3.6 20.116211,3.6 H 12.588085 7.488086 6.9208984 Z M 7.8021484,7.2 H 19.802148 c 0.3324,0 0.6,0.2676 0.6,0.6 0,0.3324 -0.2676,0.6 -0.6,0.6 H 7.8021484 c -0.3324,0 -0.6,-0.2676 -0.6,-0.6 0,-0.3324 0.2676,-0.6 0.6,-0.6 z m 0,3.6 H 19.802148 c 0.3324,0 0.6,0.2676 0.6,0.6 0,0.3324 -0.2676,0.6 -0.6,0.6 H 7.8021484 c -0.3324,0 -0.6,-0.2676 -0.6,-0.6 0,-0.3324 0.2676,-0.6 0.6,-0.6 z m 0,3.6 h 7.1999996 c 0.3324,0 0.6,0.2676 0.6,0.6 0,0.3324 -0.2676,0.6 -0.6,0.6 H 7.8021484 c -0.3324,0 -0.6,-0.2676 -0.6,-0.6 0,-0.3324 0.2676,-0.6 0.6,-0.6 z"
-     id="path1" />
-  <circle
-     style="fill:currentColor;stroke-width:1.2"
-     class="ColorScheme-Text"
-     cx="2.3998046"
-     cy="6"
-     r="2.4000001"
-     id="circle1" />
+<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="2 2 20 20" xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9}</style></defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.2304688 5 A 3 3 0 0 1 7 7 A 3 3 0 0 1 4.484375 9.9589844 L 4.5039062 9.9882812 L 5.0019531 10.75 L 5.0019531 15.705078 C 5.0019531 17.530019 6.4463295 19 8.2402344 19 L 18.763672 19 C 20.557577 19 22.001953 17.530019 22.001953 15.705078 L 22.001953 8.2949219 C 22.001953 6.4699807 20.557577 5 18.763672 5 L 12.490234 5 L 8.2402344 5 L 7.7675781 5 L 6.2304688 5 z M 8.5019531 8 L 18.501953 8 C 18.778953 8 19.001953 8.223 19.001953 8.5 C 19.001953 8.777 18.778953 9 18.501953 9 L 8.5019531 9 C 8.2249531 9 8.0019531 8.777 8.0019531 8.5 C 8.0019531 8.223 8.2249531 8 8.5019531 8 z M 8.5019531 11 L 18.501953 11 C 18.778953 11 19.001953 11.223 19.001953 11.5 C 19.001953 11.777 18.778953 12 18.501953 12 L 8.5019531 12 C 8.2249531 12 8.0019531 11.777 8.0019531 11.5 C 8.0019531 11.223 8.2249531 11 8.5019531 11 z M 8.5019531 14 L 14.501953 14 C 14.778953 14 15.001953 14.223 15.001953 14.5 C 15.001953 14.777 14.778953 15 14.501953 15 L 8.5019531 15 C 8.2249531 15 8.0019531 14.777 8.0019531 14.5 C 8.0019531 14.223 8.2249531 14 8.5019531 14 z"/>
+ <circle style="fill:currentColor" class="ColorScheme-Text" cx="4" cy="7" r="2"/>
 </svg>

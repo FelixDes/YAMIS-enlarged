@@ -9,70 +9,77 @@ Example=x-directory-normal
 
 KDE-Extensions=.svg
 
-Directories=actions/scalable,apps/16,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,places/16,places/scalable,mimetypes/scalable,status/scalable,preferences/scalable
+Directories=actions/16,actions/scalable,apps/16,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,places/16,places/scalable,mimetypes/scalable,status/scalable,preferences/scalable
+
+[actions/16]
+Context=Actions
+Size=24
+MinSize=8
+MaxSize=28
+Type=Scalable
 
 [actions/scalable]
 Context=Actions
-Size=16
-MinSize=8
+Size=64
+MinSize=29
 MaxSize=512
 Type=Scalable
 
 [apps/16]
-Size=128
 Context=Applications
-Type=Scalable
+Size=24
 MinSize=8
-MaxSize=24
+MaxSize=28
+Type=Scalable
 
 [apps/scalable]
-Size=128
 Context=Applications
-Type=Scalable
-MinSize=25
+Size=64
+MinSize=29
 MaxSize=512
+Type=Scalable
 
 [categories/scalable]
 Context=Categories
-Size=16
+Size=64
 MinSize=8
 MaxSize=512
 Type=Scalable
 
 [devices/scalable]
-Size=128
 Context=Devices
-Type=Scalable
+Size=64
 MinSize=8
-MaxSize=128
+MaxSize=512
+Type=Scalable
 
 [emblems/scalable]
-Size=128
 Context=Actions
+Size=64
+MinSize=8
+MaxSize=512
 Type=Scalable
-MinSize=16
-MaxSize=128
 
 [places/16]
 Context=Places
-Size=64
-MinSize=16
-MaxSize=32
+Size=24
+MinSize=8
+MaxSize=28
 Type=Scalable
 
 [places/scalable]
 Context=Places
 Size=64
-MinSize=33
+MinSize=29
 MaxSize=512
 Type=Scalable
 
 [mimetypes/scalable]
-Size=512
 Context=MimeTypes
-Type=Scalable
-MinSize=16
+Size=64
+MinSize=8
 MaxSize=512
+Type=Scalable
 
 [status/scalable]
 Context=Status

@@ -1,0 +1,58 @@
+name: Sync with upstream
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+env:
+  UPSTREAM_REPO: https://bitbucket.org/dirn-typo/yet-another-monochrome-icon-set.git
+
+jobs:
+  sync:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install librsvg bindings
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends python3-gi gir1.2-rsvg-2.0
+
+      - name: Fetch upstream
+        run: git clone --depth 1 "$UPSTREAM_REPO" "$RUNNER_TEMP/upstream"
+
+      - name: Build
+        run: /usr/bin/python3 tools/enlarge.py "$RUNNER_TEMP/upstream" .
+
+      - name: Commit and release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          version=$(git -C "$RUNNER_TEMP/upstream" log -1 --format=%s)
+          rev=$(git -C "$RUNNER_TEMP/upstream" rev-parse --short HEAD)
+
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Build is up to date with upstream $version ($rev)"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -q -m "Sync with upstream $version ($rev)"
+            git push
+          fi
+
+          # One release per upstream version; rebuilds of the same version only update the branch
+          if [[ "$version" =~ ^v[0-9][0-9.]*$ ]] && ! git ls-remote --exit-code --tags origin "refs/tags/$version" >/dev/null; then
+            archive="$RUNNER_TEMP/YAMIS-enlarged-$version.tar.gz"
+            git archive --format=tar.gz --prefix=YAMIS-enlarged/ -o "$archive" HEAD
+            gh release create "$version" "$archive" --target "$(git rev-parse HEAD)" \
+              --title "$version" --notes "Enlarged build of upstream YAMIS $version ($rev)."
+          fi

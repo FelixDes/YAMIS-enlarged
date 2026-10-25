@@ -1,47 +1,12 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   id="svg3"
-   sodipodi:docname="audio-input-microphone-low.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview3"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <defs
-     id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
-  </defs>
-  <g
-     transform="translate(-545 403.01)"
-     style=""
-     id="g3">
-    <g
-       transform="translate(546 -402.01)"
-       style=""
-       id="g2">
-      <g
-         transform="translate(-201 -647.36)"
-         id="g1">
-        <path
-           opacity="0.35"
-           style="fill:currentColor;stroke-width:1.2"
-           class="ColorScheme-Text"
-           d="m 212,648.76 c -1.99452,0 -3.6,1.60548 -3.6,3.6 v 6 c 0,1.99452 1.60548,3.6 3.6,3.6 1.99452,0 3.6,-1.60548 3.6,-3.6 v -6 c 0,-1.99452 -1.60548,-3.6 -3.6,-3.6 z m 0,2.4 c 0.6648,0 1.2,0.5352 1.2,1.2 v 6 c 0,0.6648 -0.5352,1.2 -1.2,1.2 -0.6648,0 -1.2,-0.5352 -1.2,-1.2 v -6 c 0,-0.6648 0.5352,-1.2 1.2,-1.2 z m -7.2,6 v 1.2 c 0,3.5634 2.59488,6.51864 6,7.08744 V 667.96 h 2.4 v -2.51256 c 3.40512,-0.56891 6,-3.52416 6,-7.08744 v -1.2 h -2.4 v 1.2 c 0,2.68008 -2.11992,4.8 -4.8,4.8 -2.68008,0 -4.8,-2.11992 -4.8,-4.8 v -1.2 z"
-           id="path1" />
-      </g>
-    </g>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="2 2 20 20" xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9}</style></defs>
+ <g transform="translate(-545 403.01)" style="">
+  <g transform="translate(546 -402.01)" style="">
+   <g transform="translate(-201 -647.36)">
+    <path opacity=".35" style="fill:currentColor" class="ColorScheme-Text" d="m212 650.36c-1.6621 0-3 1.3379-3 3v5c0 1.6621 1.3379 3 3 3s3-1.3379 3-3v-5c0-1.6621-1.3379-3-3-3zm0 2c0.554 0 1 0.446 1 1v5c0 0.554-0.446 1-1 1s-1-0.446-1-1v-5c0-0.554 0.446-1 1-1zm-6 5v1c0 2.9695 2.1624 5.4322 5 5.9062v2.0938h2v-2.0938c2.8376-0.47409 5-2.9368 5-5.9062v-1h-2v1c0 2.2334-1.7666 4-4 4s-4-1.7666-4-4v-1z"/>
+   </g>
   </g>
+ </g>
 </svg>

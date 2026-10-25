@@ -12,16 +12,26 @@ based on personal needs, helping to improve coverage and integration within the 
 
 ### Few word about cropping
 
-Cropping was performed with inkscape cli.
+Icons are enlarged 1.2x around the center of their visible bounding box. Instead of transforming the drawing, the root
+`viewBox` is shrunk around that center, which renders the same and takes about a second for the whole set.
+The bounding box comes from librsvg.
 
 ```shell
-inkscape --batch-process $src_path --actions=select-all;transform-scale:1,2,1,2;export-filename:$dst_path;export-do'
+python3 tools/enlarge.py path/to/upstream/checkout .
 ```
 
-Paths that were not cropped: 
+Requires PyGObject and librsvg typelib (`python-gobject librsvg` on Arch, `python3-gi gir1.2-rsvg-2.0` on Debian/Ubuntu).
+
+Paths that are not cropped (see `SKIP_DIRS` in `tools/enlarge.py`):
 
 > "/apps/scalable/"  
-> "/places/scalable/"  
-> "/mimetypes/scalable/"  
+> "/places/scalable/" (and "-outlined")  
+> "/mimetypes/scalable/" (and "-outlined")  
 > "/emblems/scalable/"  
 > "/devices/scalable/"  
+
+### Updates
+
+`.github/workflows/sync.yml` checks [upstream](https://bitbucket.org/dirn-typo/yet-another-monochrome-icon-set) daily,
+rebuilds the theme and commits the result. Each new upstream version also gets a GitHub release with a tarball.
+If the theme is installed as a clone of this repository, `git pull` is enough to update it.

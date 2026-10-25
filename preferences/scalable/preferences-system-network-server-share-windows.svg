@@ -1,161 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   height="32"
-   width="32"
-   version="1.1"
-   id="svg15"
-   sodipodi:docname="preferences-system-network-server-share-windows.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs15" />
-  <sodipodi:namedview
-     id="namedview15"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <linearGradient
-     id="b"
-     gradientTransform="matrix(0.84,0,0,0.84,-4.34,-4.52)"
-     gradientUnits="userSpaceOnUse"
-     x2="0"
-     y1="44"
-     y2="4">
-    <stop
-       offset="0"
-       stop-color="#1d1e1e"
-       id="stop1" />
-    <stop
-       offset="1"
-       stop-color="#44484c"
-       id="stop2" />
+<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="2.916667 2.666667 26.666667 26.666667" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="32" width="32">
+  <linearGradient id="b" gradientTransform="matrix(.7 0 0 .7 -.7 -1.1)" gradientUnits="userSpaceOnUse" x2="0" y1="44" y2="4">
+    <stop offset="0" stop-color="#1d1e1e"/>
+    <stop offset="1" stop-color="#44484c"/>
   </linearGradient>
-  <linearGradient
-     id="c"
-     gradientTransform="matrix(0.84,0,0,0.84,-328.0988,-424.112)"
-     x2="0"
-     xlink:href="#a"
-     y1="507.8"
-     y2="506.8" />
-  <linearGradient
-     id="a"
-     gradientUnits="userSpaceOnUse"
-     x2="0"
-     y1="507.8"
-     y2="506.8">
-    <stop
-       offset="0"
-       stop-color="#3da103"
-       id="stop3" />
-    <stop
-       offset="1"
-       stop-color="#7ddf07"
-       id="stop4" />
+  <linearGradient id="c" gradientTransform="matrix(.7 0 0 .7 -270.499 -350.76)" x2="0" xlink:href="#a" y1="507.8" y2="506.8"/>
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x2="0" y1="507.8" y2="506.8">
+    <stop offset="0" stop-color="#3da103"/>
+    <stop offset="1" stop-color="#7ddf07"/>
   </linearGradient>
-  <linearGradient
-     id="d"
-     gradientTransform="matrix(0.84,0,0,0.84,-328.0988,-410.912)"
-     x2="0"
-     xlink:href="#a"
-     y1="507.8"
-     y2="506.8" />
-  <linearGradient
-     id="e"
-     gradientTransform="matrix(0.84,0,0,0.84,-328.0988,-397.712)"
-     x2="0"
-     xlink:href="#a"
-     y1="507.8"
-     y2="506.8" />
-  <linearGradient
-     id="f"
-     gradientUnits="userSpaceOnUse"
-     x1="5"
-     x2="18"
-     y1="12"
-     y2="25"
-     gradientTransform="matrix(1.2,0,0,1.2,-3.5,-3.2)">
-    <stop
-       offset="0"
-       stop-color="#292c2f"
-       id="stop5" />
-    <stop
-       offset="1"
-       stop-opacity="0"
-       id="stop6" />
+  <linearGradient id="d" gradientTransform="matrix(.7 0 0 .7 -270.499 -339.76)" x2="0" xlink:href="#a" y1="507.8" y2="506.8"/>
+  <linearGradient id="e" gradientTransform="matrix(.7 0 0 .7 -270.499 -328.76)" x2="0" xlink:href="#a" y1="507.8" y2="506.8"/>
+  <linearGradient id="f" gradientUnits="userSpaceOnUse" x1="5" x2="18" y1="12" y2="25">
+    <stop offset="0" stop-color="#292c2f"/>
+    <stop offset="1" stop-opacity="0"/>
   </linearGradient>
-  <path
-     d="M 0.1,5.2 H 31.3 V 25.6 H 0.1 Z"
-     fill="#111213"
-     style="stroke-width:1.2"
-     id="path6" />
-  <g
-     stroke-width=".7"
-     style=""
-     id="g10">
-    <path
-       d="M 0.1,-0.8 V 32.8 H 31.3 V -0.8 Z m 1.2,7.2 h 28.8 v 4.8 H 1.3 Z m 0,13.2 h 28.8 v 4.8 H 1.3 Z"
-       fill="url(#b)"
-       style="fill:url(#b);stroke-width:0.84"
-       id="path7" />
-    <path
-       d="M 2.5,1.6 H 4.9 V 2.8 H 2.5 Z"
-       fill="url(#c)"
-       style="fill:url(#c);stroke-width:0.84"
-       id="path8" />
-    <path
-       d="M 2.5,14.8 H 4.9 V 16 H 2.5 Z"
-       fill="url(#d)"
-       style="fill:url(#d);stroke-width:0.84"
-       id="path9" />
-    <path
-       d="m 2.5,28 h 2.4 v 1.2 H 2.5 Z"
-       fill="url(#e)"
-       style="fill:url(#e);stroke-width:0.84"
-       id="path10" />
+  <path d="M3 7h26v17H3z" fill="#111213" style=""/>
+  <g stroke-width=".7" style="">
+    <path d="M3 2v28h26V2zm1 6h24v4H4zm0 11h24v4H4z" fill="url(#b)" style=""/>
+    <path d="M5 4h2v1H5z" fill="url(#c)" style=""/>
+    <path d="M5 15h2v1H5z" fill="url(#d)" style=""/>
+    <path d="M5 26h2v1H5z" fill="url(#e)" style=""/>
   </g>
-  <path
-     d="m 0.1,31.6 h 31.2 v 1.2 H 0.1 Z"
-     opacity="0.2"
-     style="stroke-width:1.2"
-     id="path11" />
-  <path
-     d="m 1.3,11.2 8.4,8.4 h 20.4 v 4.8 H 14.5 l 8.4,8.4 h 8.4 V 12.4 l -1.2,-1.2 z"
-     fill="url(#f)"
-     fill-rule="evenodd"
-     opacity="0.4"
-     style="fill:url(#f);stroke-width:1.2"
-     id="path12" />
-  <rect
-     fill="#eff0f1"
-     height="19.200001"
-     rx="2.4000001"
-     width="19.200001"
-     x="15.7"
-     y="13.6"
-     id="rect12"
-     style="stroke-width:1.2" />
-  <g
-     fill="#232629"
-     style=""
-     id="g15">
-    <path
-       d="M 30.0232,24.4 A 2.4,2.4 0 0 1 30.1,25 v 0.6 A 2.4,2.4 0 0 1 27.7,28 h -1.2 v 2.4 h 6 v -6 h -2.4 z"
-       style="stroke-width:1.2"
-       id="path13" />
-    <path
-       d="m 26.5,24.4 v 2.4 h 1.2 a 1.2084,1.2084 0 0 0 0.354,-0.054 1.1964,1.1964 0 0 0 0.42,-0.228 1.2,1.2 0 0 0 0.2952,-0.3744 A 1.1964,1.1964 0 0 0 28.9,25.6 V 25 a 1.2,1.2 0 0 0 -0.1644,-0.6 z m -8.4,0 v 6 h 6 V 28 h -3.6 v -1.2 h 3.6 v -2.4 z m 0,-8.4 v 6 h 2.4768 A 2.4,2.4 0 0 1 20.5,21.4 v -0.6 a 2.4,2.4 0 0 1 2.4,-2.4 h 1.2 V 16 Z"
-       style="stroke-width:1.2"
-       id="path14" />
-    <path
-       d="m 22.9,19.6 a 1.2084,1.2084 0 0 0 -0.354,0.054 1.1964,1.1964 0 0 0 -0.42,0.228 1.2,1.2 0 0 0 -0.2952,0.3744 A 1.1964,1.1964 0 0 0 21.7,20.8 v 0.6 A 1.2,1.2 0 0 0 21.8644,22 H 24.1 V 19.6 Z M 26.5,16 v 2.4 h 3.6 v 1.2 H 26.5 V 22 h 6 v -6 z"
-       style="stroke-width:1.2"
-       id="path15" />
+  <path d="M3 29h26v1H3z" opacity=".2" style=""/>
+  <path d="M4 12l7 7h17v4H15l7 7h7V13l-1-1z" fill="url(#f)" fill-rule="evenodd" opacity=".4" style=""/>
+  <rect fill="#eff0f1" height="16" rx="2" width="16" x="16" y="14"/>
+  <g fill="#232629" style="">
+    <path d="M27.936 23a2 2 0 0 1 .064.5v.5a2 2 0 0 1-2 2h-1v2h5v-5h-2z" style=""/>
+    <path d="M25 23v2h1a1.007 1.007 0 0 0 .295-.045.997.997 0 0 0 .35-.19 1 1 0 0 0 .246-.312A.997.997 0 0 0 27 24v-.5a1 1 0 0 0-.137-.5zm-7 0v5h5v-2h-3v-1h3v-2zm0-7v5h2.064a2 2 0 0 1-.064-.5V20a2 2 0 0 1 2-2h1v-2z" style=""/>
+    <path d="M22 19a1.007 1.007 0 0 0-.295.045.997.997 0 0 0-.35.19 1 1 0 0 0-.246.312A.997.997 0 0 0 21 20v.5a1 1 0 0 0 .137.5H23v-2zm3-3v2h3v1h-3v2h5v-5z" style=""/>
   </g>
 </svg>

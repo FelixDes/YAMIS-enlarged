@@ -1,32 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   id="svg1"
-   sodipodi:docname="tweet-tray-panel.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <defs
-     id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
-  </defs>
-  <path
-     style="fill:currentColor;stroke-width:1.2"
-     class="ColorScheme-Text"
-     d="m 21.6,2.4 c -10.036366,0 -19.2,9.163636 -19.2,19.2 0,0 1.3090908,-3.49095 4.3636344,-5.67273 3.0545412,-2.18181 9.1239756,0.08392 10.8694656,-3.84336 -3.054584,0 -4.76037,-1.26942 -4.76037,-1.26942 C 16.363634,10.81449 21.6,7.49091 21.6,2.4 Z"
-     id="path1" />
+<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="2 2 20 20" xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9}</style></defs>
+ <path style="fill:currentColor" class="ColorScheme-Text" d="M 20,4 C 11.636362,4 4,11.636363 4,20 c 0,0 1.090909,-2.909125 3.636362,-4.727275 2.545451,-1.818175 7.603313,0.06993 9.057888,-3.2028 -2.545487,0 -3.966975,-1.05785 -3.966975,-1.05785 C 15.636362,11.012075 20,8.242425 20,4 Z"/>
 </svg>

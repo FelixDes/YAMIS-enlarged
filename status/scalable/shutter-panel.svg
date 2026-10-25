@@ -1,79 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   id="svg8"
-   sodipodi:docname="shutter-panel.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview8"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <defs
-     id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
-  </defs>
-  <g
-     transform="translate(-545 403.01)"
-     style=""
-     id="g8">
-    <g
-       transform="matrix(.546 0 0 .54523 543.66 -951.37)"
-       style=""
-       id="g7">
-      <path
-         style="fill:currentColor;stroke-width:1.2"
-         class="ColorScheme-Text"
-         d="m 32.296731,1018.0874 c -3.8148,0.2725 -10.52052,6.6986 -9.57756,6.6661 7.79916,-0.2693 12.6708,0.1752 18.756,2.0466 0.901044,0.2772 -0.972312,-8.0855 -9.17844,-8.7127 z"
-         xml:space="default"
-         id="path1" />
-      <path
-         style="fill:currentColor;stroke-width:1.2"
-         class="ColorScheme-Text"
-         d="m 20.695131,1012.8074 c -2.16888,3.1203 -2.44116,15.3324 -1.88124,14.58 4.61424,-6.1993 15.6744,-13.8552 22.2696,-16.938 8.15316,-3.8109 -15.5604,-3.3459 -20.388,2.3583 z"
-         xml:space="default"
-         id="path2" />
-      <path
-         style="fill:currentColor;stroke-width:1.2"
-         class="ColorScheme-Text"
-         d="m 10.874331,1026.0074 c 1.2498,3.5804 9.24768,8.3401 8.97276,7.4462 -2.27412,-7.394 -3.09684,-12.1704 -2.84076,-18.4764 0.03792,-0.9337 -7.6364396,3.0157 -6.132,11.0304 z"
-         xml:space="default"
-         id="path3" />
-      <path
-         style="fill:currentColor;stroke-width:1.2"
-         class="ColorScheme-Text"
-         d="m 11.918331,1037.7674 c 3.54216,1.4292 12.4284,-1.3905 11.56788,-1.7749 -7.11276,-3.1802 -11.28168,-5.7159 -15.9011996,-10.0634 -0.683928,-0.6436 -2.74404,7.6758 4.3327196,11.8383 z"
-         xml:space="default"
-         id="path4" />
-      <path
-         style="fill:currentColor;stroke-width:1.2"
-         class="ColorScheme-Text"
-         d="m 22.166331,1044.4874 c 3.38664,-1.7607 6.939,-10.3062 6.08796,-9.903 -7.04004,3.3353 -11.68464,4.857 -18.018,5.5514 -0.9377516,0.1032 4.155,7.0263 11.92992,4.3516 z"
-         xml:space="default"
-         id="path5" />
-      <path
-         style="fill:currentColor;stroke-width:1.2"
-         class="ColorScheme-Text"
-         d="m 34.109931,1040.8874 c 0.82728,-3.6987 -3.47184,-11.9008 -3.71004,-10.9966 -1.97004,7.4791 -3.79332,11.9755 -7.34424,17.2164 -0.525768,0.7759 8.10048,1.3896 11.05428,-6.2193 z"
-         xml:space="default"
-         id="path6" />
-      <path
-         style="fill:currentColor;stroke-width:1.2"
-         class="ColorScheme-Text"
-         d="m 38.811531,1029.2474 c -2.30112,-3.0261 -11.38932,-5.1185 -10.85016,-4.3516 4.46004,6.3427 6.72624,10.6371 8.44092,16.716 0.253896,0.9 6.32964,-5.1961 2.40912,-12.3636 z"
-         xml:space="default"
-         id="path7" />
-    </g>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="2.004557 1.988607 20 20" xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9}</style></defs>
+ <g transform="translate(-545 403.01)" style="">
+  <g transform="matrix(.546 0 0 .54523 543.66 -951.37)" style="">
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m31.043 1019.7c-3.179 0.2271-8.7671 5.5822-7.9813 5.5551 6.4993-0.2244 10.559 0.146 15.63 1.7055 0.75087 0.231-0.81026-6.7379-7.6487-7.2606z" xml:space="default"/>
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m21.375 1015.3c-1.8074 2.6003-2.0343 12.777-1.5677 12.15 3.8452-5.1661 13.062-11.546 18.558-14.115 6.7943-3.1757-12.967-2.7882-16.99 1.9653z" xml:space="default"/>
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m13.191 1026.3c1.0415 2.9837 7.7064 6.9501 7.4773 6.2052-1.8951-6.1617-2.5807-10.142-2.3673-15.397 0.0316-0.7781-6.3637 2.5131-5.11 9.192z" xml:space="default"/>
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m14.061 1036.1c2.9518 1.191 10.357-1.1587 9.6399-1.4791-5.9273-2.6501-9.4014-4.7632-13.251-8.3861-0.56994-0.5364-2.2867 6.3965 3.6106 9.8652z" xml:space="default"/>
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m22.601 1041.7c2.8222-1.4672 5.7825-8.5885 5.0733-8.2525-5.8667 2.7794-9.7372 4.0475-15.015 4.6262-0.78146 0.086 3.4625 5.8552 9.9416 3.6263z" xml:space="default"/>
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m32.554 1038.7c0.6894-3.0822-2.8932-9.9173-3.0917-9.1638-1.6417 6.2326-3.1611 9.9796-6.1202 14.347-0.43814 0.6466 6.7504 1.158 9.2119-5.1828z" xml:space="default"/>
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m36.472 1029c-1.9176-2.5217-9.4911-4.2654-9.0418-3.6263 3.7167 5.2856 5.6052 8.8642 7.0341 13.93 0.21158 0.75 5.2747-4.3301 2.0076-10.303z" xml:space="default"/>
   </g>
+ </g>
 </svg>

@@ -1,32 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="24"
-   height="24"
-   version="1.1"
-   id="svg1"
-   sodipodi:docname="dnfdragora.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
-  <defs
-     id="defs1">
-    <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text {color:#d8dee9} .ColorScheme-Highlight {color:#3b4252}</style>
-  </defs>
-  <path
-     style="fill:none;stroke:currentColor;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round"
-     class="ColorScheme-Text"
-     d="M 3.6152375,6.9961984 V 15.988266 L 12,20.4843 M 3.6152375,6.9961984 12,11.49223 M 3.6152375,6.9961984 7.8076198,4.7481812 M 12,20.4843 20.384762,15.988266 V 6.9961984 M 12,20.4843 V 11.49223 M 20.384762,6.9961984 12,2.5001642 7.8076198,4.7481812 M 20.384762,6.9961984 16.192382,9.244212 M 12,11.49223 16.192382,9.244212 M 7.8076198,4.7481812 16.192382,9.244212"
-     id="path1" />
+<?xml version='1.0' encoding='UTF-8'?>
+<svg viewBox="2 1.92513 20 20" xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {color:#d8dee9}</style></defs>
+ <path style="fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" class="ColorScheme-Text" d="M 5.0126979,7.7455387 V 15.238928 L 12,18.985623 M 5.0126979,7.7455387 12,11.492232 M 5.0126979,7.7455387 8.5063498,5.872191 M 12,18.985623 18.987302,15.238928 V 7.7455387 M 12,18.985623 V 11.492232 M 18.987302,7.7455387 12,3.9988435 8.5063498,5.872191 M 18.987302,7.7455387 15.493652,9.6188833 M 12,11.492232 15.493652,9.6188833 M 8.5063498,5.872191 15.493652,9.6188833"/>
 </svg>
